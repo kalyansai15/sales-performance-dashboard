@@ -5,7 +5,7 @@ This project showcases an interactive **Sales Performance Dashboard** built in *
 It uses **pivot tables, slicers, and charts** to analyze sales trends, KPIs, and product performance.  
 
 ## Features
-- Automated KPIs: Total Sales, Profit, Orders, Profit Margin
+- KPIs: Total Sales, Profit, Orders, Profit Margin
 - Interactive filters with slicers (Region, Category, Year)
 - Visual storytelling with charts:
   - Line chart: Sales trend over time
@@ -18,7 +18,8 @@ It uses **pivot tables, slicers, and charts** to analyze sales trends, KPIs, and
 - Columns: Order ID, Order Date, Ship Date, Region, Category, Product, Sales, Profit, etc.
 
 ## Dashboard Preview
-![Dashboard Screenshot](<img width="1062" height="646" alt="dashboard" src="https://github.com/user-attachments/assets/fe7108ff-a372-4c4d-97bf-e552f49134a1" />)
+![Dashboard Screenshot](<img width="1062" height="646" alt="dashboard" src="https://github.com/user-attachments/assets/4a50e2d2-33c2-4752-bb24-742fba619d21" />
+)
 
 ## Insights
 - North region contributes the highest sales (~₹1.4M)
