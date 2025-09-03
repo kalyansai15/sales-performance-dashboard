@@ -1,2 +1,34 @@
-# sales-performance-dashboard
-Interactive Sales Performance Dashboard built in Google Sheets using pivot tables, slicers, and charts to analyze trends, KPIs, and product performance.
+# Sales Performance Dashboard 📊
+
+## Overview
+This project showcases an interactive **Sales Performance Dashboard** built in **Google Sheets**.  
+It uses **pivot tables, slicers, and charts** to analyze sales trends, KPIs, and product performance.  
+
+## Features
+- Automated KPIs: Total Sales, Profit, Orders, Profit Margin
+- Interactive filters with slicers (Region, Category, Year)
+- Visual storytelling with charts:
+  - Line chart: Sales trend over time
+  - Bar chart: Regional performance
+  - Pie chart: Category mix
+  - Horizontal bar chart: Top 10 products
+
+## Dataset
+- 500 sales records from an India sales dataset (2023–2025)
+- Columns: Order ID, Order Date, Ship Date, Region, Category, Product, Sales, Profit, etc.
+
+## Dashboard Preview
+![Dashboard Screenshot](<img width="1062" height="646" alt="dashboard" src="https://github.com/user-attachments/assets/fe7108ff-a372-4c4d-97bf-e552f49134a1" />)
+
+## Insights
+- North region contributes the highest sales (~₹1.4M)
+- Technology category leads revenue with ~45% share
+- Profit margin stable around 18%
+- Top 3 products generate ~40% of total sales
+
+## How to Use
+1. Open `sales_dashboard.xlsx` in Excel or upload it to Google Sheets
+2. Use slicers to filter by Region, Category, and Year
+3. Dashboard updates automatically
+
+---
