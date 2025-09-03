@@ -1,0 +1,501 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer Name,Segment,Country,City,State,Region,Category,Sub-Category,Product,Sales,Quantity,Discount,Profit
+20240424-98696,24-04-2024,24-04-2024,Second Class,Riya Verma,Home Office,India,Ludhiana,Punjab,North,Furniture,Tables,Tables Model 204,8191.29,1,0.1,922
+20250308-95181,08-03-2025,08-03-2025,Standard Class,Riya Khan,Home Office,India,Mumbai,Maharashtra,West,Furniture,Tables,Tables Model 303,8932.35,1,0,1205.4
+20240813-30379,13-08-2024,20-08-2024,Same Day,Krishna Bose,Corporate,India,Thiruvananthapuram,Kerala,South,Furniture,Tables,Tables Model 384,15249.36,2,0,2487.06
+20241210-15695,10-12-2024,11-12-2024,First Class,Meera Das,Home Office,India,Mysuru,Karnataka,South,Furniture,Bookcases,Bookcases Model 370,5836.84,1,0,922.88
+20240507-16006,07-05-2024,13-05-2024,Second Class,Ishaan Bose,Home Office,India,Mangaluru,Karnataka,South,Office Supplies,Storage,Storage Model 171,1644.44,1,0,413.26
+20241023-57819,23-10-2024,24-10-2024,Same Day,Sai Reddy,Home Office,India,Hyderabad,Telangana,South,Office Supplies,Storage,Storage Model 954,2827.89,2,0,664.72
+20241229-32431,29-12-2024,01-01-2025,Standard Class,Riya Chatterjee,Home Office,India,Visakhapatnam,Andhra Pradesh,South,Technology,Appliances,Appliances Model 750,4159.88,1,0.1,590.12
+20240907-14207,07-09-2024,09-09-2024,First Class,Ananya Khan,Consumer,India,Udaipur,Rajasthan,North,Office Supplies,Paper,Paper Model 334,225.47,1,0,-24.19
+20241001-28726,01-10-2024,02-10-2024,Same Day,Rohit Gupta,Home Office,India,Warangal,Telangana,South,Furniture,Furnishings,Furnishings Model 569,1655.87,1,0.3,-45.88
+20240909-76784,09-09-2024,13-09-2024,First Class,Nisha Verma,Consumer,India,Ludhiana,Punjab,North,Technology,Accessories,Accessories Model 241,1356.56,1,0,212.63
+20240218-88104,18-02-2024,19-02-2024,Standard Class,Meera Das,Corporate,India,Madurai,Tamil Nadu,South,Furniture,Furnishings,Furnishings Model 490,2177.63,1,0.1,207.32
+20240914-24621,14-09-2024,14-09-2024,First Class,Manish Khan,Home Office,India,Vijayawada,Andhra Pradesh,South,Technology,Appliances,Appliances Model 448,5502.75,1,0,1270.68
+20240610-91959,10-06-2024,17-06-2024,Second Class,Manish Mehta,Home Office,India,Nagpur,Maharashtra,West,Technology,Accessories,Accessories Model 208,1192.17,1,0.1,211.97
+20250603-24662,03-06-2025,06-06-2025,First Class,Diya Malhotra,Corporate,India,Coimbatore,Tamil Nadu,South,Furniture,Chairs,Chairs Model 119,3344.28,1,0.2,257.98
+20241110-19071,10-11-2024,13-11-2024,Standard Class,Riya Bose,Home Office,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Model 597,13247.49,1,0.1,2548.6
+20240508-89507,08-05-2024,10-05-2024,First Class,Kavya Patel,Home Office,India,Visakhapatnam,Andhra Pradesh,South,Technology,Phones,Phones Model 993,14557.2,1,0.1,2747.22
+20250706-25860,06-07-2025,09-07-2025,Same Day,Ishaan Patel,Home Office,India,Ludhiana,Punjab,North,Office Supplies,Storage,Storage Model 562,1510.33,1,0,239.66
+20240306-92719,06-03-2024,11-03-2024,Second Class,Vivaan Patel,Consumer,India,Nagpur,Maharashtra,West,Technology,Phones,Phones Model 172,12325.71,1,0.2,1793.2
+20240310-38080,10-03-2024,10-03-2024,First Class,Riya Gupta,Home Office,India,Kolkata,West Bengal,East,Technology,Phones,Phones Model 597,13788.67,1,0,3267.79
+20250807-66498,07-08-2025,14-08-2025,Standard Class,Diya Khan,Consumer,India,Warangal,Telangana,South,Office Supplies,Paper,Paper Model 774,402.43,2,0.1,18.13
+20250224-54473,24-02-2025,03-03-2025,Standard Class,Vihaan Patel,Consumer,India,Chandigarh,Punjab,North,Technology,Appliances,Appliances Model 512,11240.23,2,0,2225.3
+20240715-42742,15-07-2024,18-07-2024,Second Class,Aditya Singh,Corporate,India,Noida,Uttar Pradesh,North,Furniture,Furnishings,Furnishings Model 573,5575.91,2,0,942.72
+20250717-63269,17-07-2025,18-07-2025,Standard Class,Nisha Singh,Consumer,India,Nagpur,Maharashtra,West,Technology,Phones,Phones Model 270,11812.85,1,0.2,1728.74
+20240806-69638,06-08-2024,12-08-2024,Same Day,Manish Khan,Corporate,India,Mumbai,Maharashtra,West,Office Supplies,Binders,Binders Model 902,320.02,1,0.3,5.95
+20250723-81066,23-07-2025,30-07-2025,Standard Class,Vivaan Chatterjee,Home Office,India,Chennai,Tamil Nadu,South,Office Supplies,Paper,Paper Model 853,181.84,1,0,-1.23
+20241117-34356,17-11-2024,17-11-2024,Standard Class,Aditya Nair,Home Office,India,Nagpur,Maharashtra,West,Office Supplies,Paper,Paper Model 182,575.93,3,0,124.46
+20240310-64948,10-03-2024,13-03-2024,Standard Class,Saanvi Nair,Home Office,India,Ahmedabad,Gujarat,West,Technology,Phones,Phones Model 183,32712.15,2,0,6842.32
+20250619-61876,19-06-2025,24-06-2025,First Class,Arjun Kulkarni,Consumer,India,New Delhi,Delhi,North,Technology,Appliances,Appliances Model 371,10339.44,2,0,2135.52
+20241103-37938,03-11-2024,10-11-2024,Standard Class,Priya Iyer,Consumer,India,Kolkata,West Bengal,East,Furniture,Furnishings,Furnishings Model 650,2357.38,1,0.1,343.35
+20240515-81200,15-05-2024,20-05-2024,Second Class,Manish Nair,Corporate,India,Bengaluru,Karnataka,South,Office Supplies,Storage,Storage Model 953,2547.7,2,0.1,592.69
+20250625-24029,25-06-2025,25-06-2025,Second Class,Riya Gupta,Corporate,India,Visakhapatnam,Andhra Pradesh,South,Technology,Phones,Phones Model 218,11140.42,1,0.2,962.57
+20241005-44600,05-10-2024,09-10-2024,Second Class,Priya Singh,Home Office,India,Kochi,Kerala,South,Technology,Accessories,Accessories Model 749,2493.12,2,0,353.04
+20240914-27146,14-09-2024,14-09-2024,Standard Class,Rohit Gupta,Consumer,India,Mangaluru,Karnataka,South,Office Supplies,Storage,Storage Model 441,4762.24,3,0,1120.56
+20250328-58393,28-03-2025,03-04-2025,Second Class,Saanvi Das,Home Office,India,Lucknow,Uttar Pradesh,North,Furniture,Chairs,Chairs Model 136,14782.08,3,0,2225.88
+20240531-99399,31-05-2024,06-06-2024,Standard Class,Ishaan Kulkarni,Corporate,India,Chennai,Tamil Nadu,South,Office Supplies,Storage,Storage Model 315,2706.9,2,0,572.22
+20240415-31299,15-04-2024,20-04-2024,Second Class,Sai Malhotra,Consumer,India,Faridabad,Haryana,North,Technology,Appliances,Appliances Model 985,4828.38,1,0.1,948.24
+20250226-24168,26-02-2025,26-02-2025,Second Class,Isha Mehta,Corporate,India,Madurai,Tamil Nadu,South,Office Supplies,Art,Art Model 263,760.64,1,0,112.11
+20240209-13101,09-02-2024,16-02-2024,First Class,Krishna Khan,Consumer,India,Hyderabad,Telangana,South,Office Supplies,Storage,Storage Model 328,1487.89,1,0,355.24
+20241202-44237,02-12-2024,06-12-2024,First Class,Sai Nair,Consumer,India,Mysuru,Karnataka,South,Office Supplies,Art,Art Model 218,1999.21,3,0.1,354.97
+20240928-77033,28-09-2024,28-09-2024,First Class,Vihaan Khan,Corporate,India,Mangaluru,Karnataka,South,Office Supplies,Storage,Storage Model 720,1620.92,1,0,392.81
+20250813-80575,13-08-2025,16-08-2025,Standard Class,Krishna Reddy,Home Office,India,New Delhi,Delhi,North,Technology,Accessories,Accessories Model 925,4371.77,4,0.2,391.11
+20250317-76469,17-03-2025,18-03-2025,Standard Class,Manish Kulkarni,Home Office,India,Visakhapatnam,Andhra Pradesh,South,Technology,Accessories,Accessories Model 407,959,1,0.3,-14.32
+20250222-59695,22-02-2025,27-02-2025,Second Class,Sai Nair,Corporate,India,Vadodara,Gujarat,West,Office Supplies,Paper,Paper Model 780,587.54,3,0,57.86
+20250805-86019,05-08-2025,09-08-2025,First Class,Tanvi Kulkarni,Consumer,India,Vadodara,Gujarat,West,Furniture,Bookcases,Bookcases Model 540,5545.76,1,0,800.73
+20241125-96356,25-11-2024,02-12-2024,Same Day,Aditya Iyer,Home Office,India,Udaipur,Rajasthan,North,Technology,Phones,Phones Model 273,43950.28,3,0.1,7140.52
+20250611-13201,11-06-2025,16-06-2025,Second Class,Vivaan Patel,Consumer,India,Bengaluru,Karnataka,South,Technology,Accessories,Accessories Model 250,2116.85,2,0.2,152.59
+20250501-60328,01-05-2025,02-05-2025,Second Class,Nisha Khan,Home Office,India,Udaipur,Rajasthan,North,Technology,Appliances,Appliances Model 813,9562.42,2,0.1,1781.16
+20240906-77889,06-09-2024,08-09-2024,Second Class,Meera Sharma,Consumer,India,Vijayawada,Andhra Pradesh,South,Furniture,Furnishings,Furnishings Model 923,2308.74,1,0,329.41
+20250724-76162,24-07-2025,27-07-2025,First Class,Kavya Mehta,Corporate,India,Mysuru,Karnataka,South,Furniture,Furnishings,Furnishings Model 727,2619.27,1,0,468.14
+20250715-93579,15-07-2025,22-07-2025,First Class,Rohit Bose,Consumer,India,Madurai,Tamil Nadu,South,Office Supplies,Art,Art Model 960,649.25,1,0.1,135.71
+20250617-40735,17-06-2025,24-06-2025,Standard Class,Rohit Reddy,Home Office,India,Vijayawada,Andhra Pradesh,South,Office Supplies,Art,Art Model 392,722.99,1,0,44.18
+20241123-18418,23-11-2024,24-11-2024,Second Class,Kavya Khan,Home Office,India,Chennai,Tamil Nadu,South,Furniture,Furnishings,Furnishings Model 319,2206.66,1,0.1,309.31
+20241204-12560,04-12-2024,11-12-2024,Same Day,Saanvi Khan,Home Office,India,Ahmedabad,Gujarat,West,Furniture,Furnishings,Furnishings Model 812,2566.49,1,0.1,299.18
+20250503-45774,03-05-2025,03-05-2025,Second Class,Kavya Singh,Corporate,India,Howrah,West Bengal,East,Office Supplies,Art,Art Model 324,673.79,1,0,132.93
+20240130-80008,30-01-2024,05-02-2024,Same Day,Aarav Malhotra,Consumer,India,Howrah,West Bengal,East,Technology,Phones,Phones Model 737,65068.45,4,0,13964.01
+20250207-44099,07-02-2025,07-02-2025,Same Day,Isha Reddy,Consumer,India,Mangaluru,Karnataka,South,Office Supplies,Paper,Paper Model 151,217.89,1,0,42.43
+20240804-20735,04-08-2024,11-08-2024,Same Day,Nisha Sharma,Corporate,India,Howrah,West Bengal,East,Office Supplies,Storage,Storage Model 954,4841.62,3,0,1136.95
+20250706-36130,06-07-2025,06-07-2025,Standard Class,Aarav Nair,Consumer,India,Kolkata,West Bengal,East,Technology,Phones,Phones Model 353,15126.94,1,0,3443.74
+20240605-43586,05-06-2024,08-06-2024,Second Class,Diya Gupta,Corporate,India,Coimbatore,Tamil Nadu,South,Technology,Phones,Phones Model 816,15846.97,1,0,3612.78
+20240427-59192,27-04-2024,29-04-2024,First Class,Isha Chatterjee,Home Office,India,New Delhi,Delhi,North,Technology,Phones,Phones Model 793,15909.07,1,0,3833.89
+20240722-15383,22-07-2024,23-07-2024,Standard Class,Diya Das,Home Office,India,Kochi,Kerala,South,Furniture,Bookcases,Bookcases Model 901,6364.93,1,0,1256.37
+20250314-74251,14-03-2025,19-03-2025,Standard Class,Vihaan Khan,Corporate,India,Mangaluru,Karnataka,South,Technology,Accessories,Accessories Model 942,5406.42,4,0,1057.18
+20250105-80539,05-01-2025,12-01-2025,First Class,Nisha Singh,Home Office,India,Chandigarh,Punjab,North,Office Supplies,Paper,Paper Model 927,214.15,1,0,54.48
+20250322-70910,22-03-2025,26-03-2025,Same Day,Saanvi Nair,Consumer,India,Kolkata,West Bengal,East,Furniture,Bookcases,Bookcases Model 868,11645.56,2,0,2054.68
+20250123-43862,23-01-2025,28-01-2025,Same Day,Ananya Iyer,Consumer,India,Pune,Maharashtra,West,Office Supplies,Paper,Paper Model 463,440.35,2,0,-4.32
+20241009-41499,09-10-2024,09-10-2024,Same Day,Nisha Kulkarni,Corporate,India,Lucknow,Uttar Pradesh,North,Furniture,Tables,Tables Model 668,48151.41,6,0,8067.71
+20250517-41890,17-05-2025,24-05-2025,Second Class,Manish Kulkarni,Corporate,India,Gurugram,Haryana,North,Furniture,Bookcases,Bookcases Model 808,16317.43,3,0.1,1594.36
+20250112-69473,12-01-2025,19-01-2025,First Class,Rohit Iyer,Corporate,India,Kanpur,Uttar Pradesh,North,Office Supplies,Art,Art Model 819,774.63,1,0,186.88
+20240914-34267,14-09-2024,17-09-2024,Standard Class,Krishna Patel,Home Office,India,Mangaluru,Karnataka,South,Furniture,Bookcases,Bookcases Model 648,16610.79,3,0,3353.02
+20250510-33519,10-05-2025,14-05-2025,First Class,Manish Sharma,Consumer,India,Ludhiana,Punjab,North,Furniture,Tables,Tables Model 469,16193.78,2,0,2969.65
+20250630-74340,30-06-2025,02-07-2025,Second Class,Vihaan Mehta,Home Office,India,New Delhi,Delhi,North,Furniture,Bookcases,Bookcases Model 989,13168.85,2,0,1938.38
+20240113-72616,13-01-2024,17-01-2024,Second Class,Vihaan Mehta,Consumer,India,Udaipur,Rajasthan,North,Office Supplies,Storage,Storage Model 358,1682.89,1,0,270.45
+20240307-83772,07-03-2024,13-03-2024,Standard Class,Manish Verma,Consumer,India,Jaipur,Rajasthan,North,Technology,Appliances,Appliances Model 252,9252.81,2,0,1675.15
+20240911-69049,11-09-2024,12-09-2024,Second Class,Meera Iyer,Home Office,India,Noida,Uttar Pradesh,North,Technology,Appliances,Appliances Model 489,9203.37,2,0,1899.72
+20250315-37659,15-03-2025,19-03-2025,Standard Class,Rohit Kulkarni,Consumer,India,Kochi,Kerala,South,Technology,Appliances,Appliances Model 740,7957.69,2,0.3,482.21
+20240324-69048,24-03-2024,26-03-2024,Second Class,Tanvi Singh,Consumer,India,Hyderabad,Telangana,South,Technology,Phones,Phones Model 518,31188.03,2,0,6059.91
+20241025-40595,25-10-2024,25-10-2024,Same Day,Rohit Bose,Consumer,India,Warangal,Telangana,South,Technology,Accessories,Accessories Model 803,1220.6,1,0,143.14
+20240721-17816,21-07-2024,27-07-2024,First Class,Sai Bose,Consumer,India,Mangaluru,Karnataka,South,Furniture,Tables,Tables Model 173,11713.43,2,0.3,597.8
+20241110-80776,10-11-2024,14-11-2024,Same Day,Nisha Singh,Corporate,India,Jaipur,Rajasthan,North,Office Supplies,Storage,Storage Model 612,1711.21,1,0,247.23
+20240323-98381,23-03-2024,23-03-2024,Standard Class,Saanvi Nair,Consumer,India,Vadodara,Gujarat,West,Office Supplies,Storage,Storage Model 334,1722.36,1,0,400.62
+20240122-86720,22-01-2024,26-01-2024,Same Day,Kavya Kulkarni,Corporate,India,Kochi,Kerala,South,Furniture,Furnishings,Furnishings Model 285,5369.69,2,0,858.54
+20250518-31079,18-05-2025,19-05-2025,First Class,Ananya Khan,Home Office,India,Udaipur,Rajasthan,North,Office Supplies,Storage,Storage Model 207,1018.75,1,0.3,-11
+20250522-43082,22-05-2025,26-05-2025,Same Day,Ananya Verma,Consumer,India,Visakhapatnam,Andhra Pradesh,South,Technology,Phones,Phones Model 422,14205.45,1,0,3184.84
+20250217-91609,17-02-2025,17-02-2025,Second Class,Nisha Kulkarni,Home Office,India,Visakhapatnam,Andhra Pradesh,South,Office Supplies,Binders,Binders Model 470,2063.79,5,0.1,284.76
+20250328-73532,28-03-2025,28-03-2025,First Class,Vihaan Sharma,Corporate,India,Warangal,Telangana,South,Technology,Phones,Phones Model 815,22575.7,2,0.2,3078.49
+20240902-24871,02-09-2024,04-09-2024,Standard Class,Meera Verma,Consumer,India,New Delhi,Delhi,North,Technology,Accessories,Accessories Model 961,1928.76,2,0.2,156.96
+20240606-73242,06-06-2024,13-06-2024,First Class,Nisha Patel,Corporate,India,Ludhiana,Punjab,North,Technology,Appliances,Appliances Model 954,3859.23,1,0.3,512.48
+20250412-64387,12-04-2025,14-04-2025,Second Class,Ananya Malhotra,Consumer,India,Ahmedabad,Gujarat,West,Technology,Appliances,Appliances Model 382,19989.54,4,0.1,3479.98
+20250603-80592,03-06-2025,07-06-2025,Same Day,Nisha Reddy,Consumer,India,Pune,Maharashtra,West,Technology,Accessories,Accessories Model 557,1205.48,1,0.1,145.5
+20241206-63841,06-12-2024,12-12-2024,Same Day,Vivaan Reddy,Consumer,India,Udaipur,Rajasthan,North,Furniture,Tables,Tables Model 976,16361.16,2,0.1,2387.99
+20250429-75836,29-04-2025,05-05-2025,Same Day,Saanvi Reddy,Consumer,India,Vadodara,Gujarat,West,Technology,Phones,Phones Model 229,63092.62,4,0,14273.83
+20240412-95823,12-04-2024,19-04-2024,Second Class,Arjun Verma,Corporate,India,Mangaluru,Karnataka,South,Office Supplies,Binders,Binders Model 991,427.16,1,0,-20.52
+20250425-79942,25-04-2025,29-04-2025,First Class,Isha Reddy,Home Office,India,Howrah,West Bengal,East,Technology,Phones,Phones Model 979,12482.81,1,0.2,1565.55
+20250514-66881,14-05-2025,14-05-2025,Second Class,Vihaan Bose,Home Office,India,Kochi,Kerala,South,Furniture,Bookcases,Bookcases Model 192,11394.84,2,0.1,1475.32
+20240412-17355,12-04-2024,19-04-2024,Standard Class,Manish Reddy,Corporate,India,Madurai,Tamil Nadu,South,Office Supplies,Binders,Binders Model 915,418.99,1,0,62.67
+20250118-20350,18-01-2025,24-01-2025,Second Class,Tanvi Mehta,Consumer,India,Chennai,Tamil Nadu,South,Technology,Accessories,Accessories Model 279,1315.1,1,0,175.49
+20250126-97404,26-01-2025,29-01-2025,First Class,Aarav Malhotra,Corporate,India,Jaipur,Rajasthan,North,Furniture,Furnishings,Furnishings Model 361,2829.12,1,0,355.3
+20250421-93746,21-04-2025,25-04-2025,First Class,Kavya Chatterjee,Home Office,India,Vijayawada,Andhra Pradesh,South,Furniture,Furnishings,Furnishings Model 406,2455.47,1,0,360.17
+20240913-84963,13-09-2024,20-09-2024,Standard Class,Diya Nair,Consumer,India,New Delhi,Delhi,North,Office Supplies,Art,Art Model 490,656.58,1,0,99.76
+20241029-99889,29-10-2024,02-11-2024,Standard Class,Vivaan Malhotra,Home Office,India,Nagpur,Maharashtra,West,Office Supplies,Storage,Storage Model 985,4124.89,3,0.1,838.01
+20250523-91381,23-05-2025,27-05-2025,Second Class,Rohit Kulkarni,Home Office,India,Gurugram,Haryana,North,Technology,Accessories,Accessories Model 294,1163.58,1,0,160.39
+20240520-27224,20-05-2024,21-05-2024,Standard Class,Aditya Malhotra,Home Office,India,Vijayawada,Andhra Pradesh,South,Office Supplies,Art,Art Model 473,693.75,1,0,34.35
+20241029-57953,29-10-2024,03-11-2024,Second Class,Priya Das,Home Office,India,Ludhiana,Punjab,North,Furniture,Tables,Tables Model 997,11781.63,2,0.2,429.67
+20241006-28449,06-10-2024,08-10-2024,Standard Class,Ishaan Mehta,Corporate,India,New Delhi,Delhi,North,Office Supplies,Storage,Storage Model 177,3261.19,2,0,717.27
+20250210-98188,10-02-2025,15-02-2025,Standard Class,Rohit Nair,Corporate,India,Mysuru,Karnataka,South,Furniture,Bookcases,Bookcases Model 477,11906.74,2,0,1774.35
+20250125-52992,25-01-2025,30-01-2025,Standard Class,Tanvi Patel,Home Office,India,Mangaluru,Karnataka,South,Furniture,Furnishings,Furnishings Model 674,5619.01,2,0,811.87
+20240305-14877,05-03-2024,12-03-2024,Standard Class,Manish Singh,Consumer,India,Ludhiana,Punjab,North,Technology,Accessories,Accessories Model 146,1152.74,1,0,172.1
+20240428-80804,28-04-2024,29-04-2024,First Class,Kavya Nair,Home Office,India,Hyderabad,Telangana,South,Office Supplies,Art,Art Model 860,687.31,1,0,73.82
+20240607-58566,07-06-2024,13-06-2024,First Class,Krishna Singh,Consumer,India,Vijayawada,Andhra Pradesh,South,Office Supplies,Art,Art Model 806,1434.45,2,0,254.27
+20250331-46160,31-03-2025,03-04-2025,First Class,Krishna Verma,Consumer,India,Kolkata,West Bengal,East,Technology,Accessories,Accessories Model 507,1118.27,1,0,170.19
+20250410-53713,10-04-2025,11-04-2025,Standard Class,Ishaan Gupta,Consumer,India,Vijayawada,Andhra Pradesh,South,Technology,Appliances,Appliances Model 905,5733.14,1,0,1101.38
+20250801-29340,01-08-2025,04-08-2025,Second Class,Tanvi Sharma,Corporate,India,Mangaluru,Karnataka,South,Furniture,Tables,Tables Model 892,7521.36,1,0,1071.93
+20241010-13379,10-10-2024,12-10-2024,Standard Class,Arjun Sharma,Home Office,India,Madurai,Tamil Nadu,South,Office Supplies,Paper,Paper Model 987,206.23,1,0,-12.92
+20250101-65176,01-01-2025,04-01-2025,First Class,Priya Verma,Consumer,India,Thiruvananthapuram,Kerala,South,Furniture,Tables,Tables Model 229,32151.65,4,0.1,4077.4
+20240306-39038,06-03-2024,13-03-2024,Standard Class,Tanvi Sharma,Corporate,India,Udaipur,Rajasthan,North,Technology,Appliances,Appliances Model 615,15587.86,3,0,3653.32
+20250617-24150,17-06-2025,21-06-2025,Same Day,Nisha Chatterjee,Corporate,India,Jaipur,Rajasthan,North,Furniture,Furnishings,Furnishings Model 802,2515.9,1,0,303.13
+20250330-91830,30-03-2025,31-03-2025,Standard Class,Saanvi Das,Consumer,India,Mysuru,Karnataka,South,Technology,Phones,Phones Model 381,15679.64,1,0,3472.41
+20241128-95814,28-11-2024,04-12-2024,Standard Class,Riya Chatterjee,Home Office,India,Thiruvananthapuram,Kerala,South,Office Supplies,Art,Art Model 217,653.52,1,0,34.93
+20240808-22463,08-08-2024,14-08-2024,Same Day,Ananya Khan,Corporate,India,Jaipur,Rajasthan,North,Office Supplies,Storage,Storage Model 525,1445.01,1,0.1,233.68
+20241116-21188,16-11-2024,20-11-2024,Standard Class,Aditya Khan,Consumer,India,Kolkata,West Bengal,East,Technology,Accessories,Accessories Model 951,1222.97,1,0.1,60.19
+20240408-63845,08-04-2024,13-04-2024,First Class,Diya Mehta,Home Office,India,Gurugram,Haryana,North,Technology,Phones,Phones Model 225,56718.5,4,0,12605.24
+20250309-73201,09-03-2025,09-03-2025,Second Class,Ishaan Mehta,Consumer,India,New Delhi,Delhi,North,Office Supplies,Binders,Binders Model 772,439.53,1,0,-21.16
+20240420-83526,20-04-2024,25-04-2024,Second Class,Tanvi Nair,Corporate,India,Noida,Uttar Pradesh,North,Furniture,Bookcases,Bookcases Model 965,12369.2,2,0,2024.14
+20250724-50499,24-07-2025,24-07-2025,First Class,Ananya Reddy,Home Office,India,Thiruvananthapuram,Kerala,South,Furniture,Tables,Tables Model 880,7953.89,1,0,1474.46
+20240107-92991,07-01-2024,09-01-2024,Standard Class,Aarav Verma,Consumer,India,Madurai,Tamil Nadu,South,Technology,Accessories,Accessories Model 858,1349.87,1,0,236.26
+20250627-52517,27-06-2025,30-06-2025,Second Class,Saanvi Nair,Corporate,India,Surat,Gujarat,West,Office Supplies,Storage,Storage Model 419,1702.44,1,0,269.66
+20240327-96761,27-03-2024,27-03-2024,Standard Class,Kavya Singh,Corporate,India,Chennai,Tamil Nadu,South,Technology,Phones,Phones Model 553,24800.77,2,0.2,2334.43
+20250328-47125,28-03-2025,03-04-2025,First Class,Saanvi Singh,Corporate,India,New Delhi,Delhi,North,Technology,Phones,Phones Model 213,16289.8,1,0,3708.77
+20250623-37686,23-06-2025,27-06-2025,Standard Class,Arjun Bose,Consumer,India,Mumbai,Maharashtra,West,Office Supplies,Binders,Binders Model 408,442.13,1,0,41.06
+20240918-59834,18-09-2024,22-09-2024,Same Day,Riya Chatterjee,Consumer,India,Kolkata,West Bengal,East,Furniture,Furnishings,Furnishings Model 232,4687.4,2,0,809.44
+20240823-20205,23-08-2024,28-08-2024,Same Day,Ananya Nair,Consumer,India,Mysuru,Karnataka,South,Technology,Phones,Phones Model 570,31070.43,2,0,6105.65
+20250315-32527,15-03-2025,21-03-2025,Same Day,Tanvi Singh,Consumer,India,Ludhiana,Punjab,North,Office Supplies,Binders,Binders Model 432,400.09,1,0,3.77
+20250105-61873,05-01-2025,06-01-2025,Same Day,Manish Chatterjee,Home Office,India,Ahmedabad,Gujarat,West,Furniture,Furnishings,Furnishings Model 180,2632.16,1,0,457.26
+20241213-94599,13-12-2024,16-12-2024,Second Class,Arjun Patel,Corporate,India,Kolkata,West Bengal,East,Furniture,Chairs,Chairs Model 459,9158.06,2,0.1,1360.32
+20240415-92306,15-04-2024,17-04-2024,Standard Class,Nisha Singh,Consumer,India,New Delhi,Delhi,North,Furniture,Tables,Tables Model 891,6938.31,1,0.2,420.16
+20250731-71462,31-07-2025,07-08-2025,Second Class,Meera Kulkarni,Corporate,India,Visakhapatnam,Andhra Pradesh,South,Technology,Accessories,Accessories Model 169,6658.35,5,0,1534.79
+20241106-14929,06-11-2024,10-11-2024,First Class,Vivaan Reddy,Corporate,India,Kochi,Kerala,South,Office Supplies,Binders,Binders Model 562,399.9,1,0,106.55
+20241020-82655,20-10-2024,21-10-2024,Same Day,Vivaan Singh,Corporate,India,Vijayawada,Andhra Pradesh,South,Technology,Appliances,Appliances Model 694,4997.71,1,0,1001.38
+20250808-55015,08-08-2025,11-08-2025,Standard Class,Aditya Das,Corporate,India,Howrah,West Bengal,East,Technology,Phones,Phones Model 205,30391.63,2,0,6004.8
+20240625-60779,25-06-2024,25-06-2024,First Class,Kavya Bose,Corporate,India,Warangal,Telangana,South,Office Supplies,Paper,Paper Model 389,160.76,1,0.2,-64.96
+20241212-60667,12-12-2024,12-12-2024,Standard Class,Manish Iyer,Home Office,India,Faridabad,Haryana,North,Furniture,Bookcases,Bookcases Model 794,6395.31,1,0,954.15
+20240602-96787,02-06-2024,07-06-2024,First Class,Isha Gupta,Corporate,India,Mangaluru,Karnataka,South,Technology,Phones,Phones Model 771,17238.28,1,0,3232.16
+20240327-99838,27-03-2024,31-03-2024,Second Class,Priya Verma,Home Office,India,Noida,Uttar Pradesh,North,Technology,Accessories,Accessories Model 819,1349.42,1,0,188.54
+20250309-73736,09-03-2025,14-03-2025,Second Class,Krishna Patel,Corporate,India,Pune,Maharashtra,West,Office Supplies,Paper,Paper Model 884,164.96,1,0.1,-30.92
+20240520-88282,20-05-2024,22-05-2024,First Class,Isha Gupta,Home Office,India,Mysuru,Karnataka,South,Furniture,Chairs,Chairs Model 234,4679.6,1,0,801.99
+20240615-98652,15-06-2024,17-06-2024,Standard Class,Ishaan Singh,Corporate,India,Chandigarh,Punjab,North,Technology,Accessories,Accessories Model 473,1161.22,1,0,198.98
+20241018-84766,18-10-2024,25-10-2024,Second Class,Meera Singh,Corporate,India,Hyderabad,Telangana,South,Office Supplies,Art,Art Model 794,1490.62,2,0,247.82
+20241015-42768,15-10-2024,21-10-2024,Second Class,Vivaan Kulkarni,Home Office,India,Kanpur,Uttar Pradesh,North,Office Supplies,Paper,Paper Model 241,166.68,1,0.1,2.95
+20250507-31012,07-05-2025,12-05-2025,Standard Class,Rohit Singh,Corporate,India,Lucknow,Uttar Pradesh,North,Technology,Appliances,Appliances Model 185,4323.57,1,0.1,742.81
+20250609-16980,09-06-2025,11-06-2025,First Class,Isha Das,Consumer,India,Ahmedabad,Gujarat,West,Furniture,Furnishings,Furnishings Model 524,4756.23,2,0,704.32
+20250117-95191,17-01-2025,20-01-2025,Standard Class,Ananya Bose,Corporate,India,Ahmedabad,Gujarat,West,Office Supplies,Paper,Paper Model 201,181.33,1,0,-89.42
+20240529-10688,29-05-2024,31-05-2024,Same Day,Aditya Sharma,Corporate,India,Pune,Maharashtra,West,Office Supplies,Paper,Paper Model 730,394.18,2,0,60.47
+20240919-47762,19-09-2024,22-09-2024,Same Day,Ishaan Iyer,Consumer,India,Madurai,Tamil Nadu,South,Technology,Appliances,Appliances Model 894,10023.53,2,0,1939.3
+20240504-75513,04-05-2024,04-05-2024,Same Day,Tanvi Das,Consumer,India,Warangal,Telangana,South,Technology,Appliances,Appliances Model 213,7480.23,2,0.2,1111.86
+20240117-41531,17-01-2024,20-01-2024,Standard Class,Saanvi Khan,Home Office,India,Chandigarh,Punjab,North,Office Supplies,Art,Art Model 461,633.93,1,0,124.88
+20240710-93318,10-07-2024,11-07-2024,Same Day,Isha Reddy,Corporate,India,Noida,Uttar Pradesh,North,Furniture,Chairs,Chairs Model 144,3492.51,1,0.3,89.14
+20240916-53583,16-09-2024,16-09-2024,Standard Class,Arjun Sharma,Home Office,India,Kolkata,West Bengal,East,Office Supplies,Paper,Paper Model 852,225.71,1,0,-29.76
+20241226-27675,26-12-2024,31-12-2024,Same Day,Aditya Chatterjee,Home Office,India,Vijayawada,Andhra Pradesh,South,Technology,Accessories,Accessories Model 286,2657.85,2,0,391.82
+20250413-77552,13-04-2025,13-04-2025,Standard Class,Isha Mehta,Corporate,India,New Delhi,Delhi,North,Furniture,Tables,Tables Model 417,25184.48,3,0,3905.51
+20250710-16265,10-07-2025,17-07-2025,First Class,Ananya Iyer,Corporate,India,New Delhi,Delhi,North,Technology,Phones,Phones Model 982,14936.77,1,0,2876.31
+20240507-75038,07-05-2024,12-05-2024,Same Day,Nisha Reddy,Corporate,India,Surat,Gujarat,West,Technology,Accessories,Accessories Model 291,1260.95,1,0,208.07
+20250615-33652,15-06-2025,19-06-2025,Standard Class,Riya Iyer,Corporate,India,Gurugram,Haryana,North,Technology,Accessories,Accessories Model 716,2338.27,2,0,396.86
+20241124-65851,24-11-2024,25-11-2024,First Class,Sai Chatterjee,Corporate,India,Mysuru,Karnataka,South,Technology,Accessories,Accessories Model 717,2288.96,2,0,508.92
+20250330-17518,30-03-2025,04-04-2025,Same Day,Aditya Kulkarni,Corporate,India,Jaipur,Rajasthan,North,Technology,Accessories,Accessories Model 754,1259.05,1,0,236
+20250219-89635,19-02-2025,24-02-2025,Standard Class,Meera Sharma,Consumer,India,Kanpur,Uttar Pradesh,North,Technology,Phones,Phones Model 969,27644.57,2,0.1,4504.59
+20240509-99006,09-05-2024,10-05-2024,Standard Class,Meera Reddy,Home Office,India,Warangal,Telangana,South,Office Supplies,Art,Art Model 257,1503.14,2,0,349.51
+20250115-95139,15-01-2025,22-01-2025,First Class,Rohit Patel,Corporate,India,Gurugram,Haryana,North,Technology,Phones,Phones Model 421,29427.45,3,0.3,2496.19
+20240426-44116,26-04-2024,26-04-2024,Standard Class,Meera Patel,Corporate,India,Chandigarh,Punjab,North,Office Supplies,Art,Art Model 893,2046.98,3,0.1,313.1
+20241019-68341,19-10-2024,26-10-2024,Same Day,Aditya Bose,Consumer,India,Hyderabad,Telangana,South,Furniture,Chairs,Chairs Model 830,4600.6,1,0,944.77
+20241123-30644,23-11-2024,28-11-2024,First Class,Sai Bose,Corporate,India,Chandigarh,Punjab,North,Technology,Appliances,Appliances Model 971,11313.12,2,0,2765.82
+20250105-82616,05-01-2025,08-01-2025,Same Day,Saanvi Reddy,Consumer,India,Bengaluru,Karnataka,South,Furniture,Tables,Tables Model 469,12471.52,2,0.2,1038.48
+20250423-72739,23-04-2025,25-04-2025,Same Day,Priya Khan,Home Office,India,Kochi,Kerala,South,Furniture,Bookcases,Bookcases Model 836,20000.47,3,0,2955.04
+20250223-77811,23-02-2025,24-02-2025,Same Day,Diya Gupta,Corporate,India,Coimbatore,Tamil Nadu,South,Technology,Phones,Phones Model 796,13952.13,1,0,2826.71
+20250718-49862,18-07-2025,20-07-2025,Standard Class,Sai Gupta,Home Office,India,Gurugram,Haryana,North,Office Supplies,Binders,Binders Model 256,391.53,1,0,-0.26
+20241126-45972,26-11-2024,29-11-2024,Second Class,Arjun Kulkarni,Home Office,India,Howrah,West Bengal,East,Furniture,Bookcases,Bookcases Model 664,18971.38,3,0,3832.94
+20241106-89316,06-11-2024,07-11-2024,Second Class,Ananya Mehta,Home Office,India,Kanpur,Uttar Pradesh,North,Furniture,Tables,Tables Model 739,19818.9,3,0.2,2047.67
+20250731-91016,31-07-2025,31-07-2025,Second Class,Aarav Singh,Home Office,India,Mumbai,Maharashtra,West,Furniture,Bookcases,Bookcases Model 526,12005.79,2,0,2282.61
+20250712-19564,12-07-2025,16-07-2025,Same Day,Vivaan Gupta,Corporate,India,Visakhapatnam,Andhra Pradesh,South,Office Supplies,Paper,Paper Model 564,401.78,2,0,77.58
+20250326-51853,26-03-2025,01-04-2025,Second Class,Diya Khan,Corporate,India,Udaipur,Rajasthan,North,Furniture,Bookcases,Bookcases Model 982,5830.86,1,0,886.67
+20240513-45058,13-05-2024,18-05-2024,Second Class,Meera Patel,Corporate,India,Kanpur,Uttar Pradesh,North,Furniture,Bookcases,Bookcases Model 225,30208.3,5,0,4784.34
+20240524-52917,24-05-2024,25-05-2024,Second Class,Saanvi Chatterjee,Consumer,India,Pune,Maharashtra,West,Office Supplies,Art,Art Model 933,1291.29,2,0,287.17
+20241116-13037,16-11-2024,19-11-2024,Same Day,Aditya Khan,Corporate,India,Gurugram,Haryana,North,Office Supplies,Art,Art Model 609,922.92,2,0.3,76.77
+20250601-74866,01-06-2025,08-06-2025,Standard Class,Tanvi Malhotra,Consumer,India,Hyderabad,Telangana,South,Technology,Accessories,Accessories Model 388,2467.61,2,0,473.52
+20250426-57943,26-04-2025,30-04-2025,Second Class,Isha Reddy,Corporate,India,Lucknow,Uttar Pradesh,North,Furniture,Furnishings,Furnishings Model 844,4937.66,2,0,863.32
+20240216-19637,16-02-2024,22-02-2024,First Class,Isha Das,Home Office,India,Nagpur,Maharashtra,West,Technology,Phones,Phones Model 395,84912.64,6,0,19656.37
+20250406-54444,06-04-2025,10-04-2025,Same Day,Riya Reddy,Corporate,India,Kochi,Kerala,South,Furniture,Chairs,Chairs Model 913,8604.99,2,0,1509.87
+20240527-53652,27-05-2024,30-05-2024,Standard Class,Nisha Das,Consumer,India,Thiruvananthapuram,Kerala,South,Technology,Phones,Phones Model 240,16790.48,1,0,3942.19
+20250412-49221,12-04-2025,14-04-2025,Second Class,Saanvi Reddy,Corporate,India,Kochi,Kerala,South,Office Supplies,Storage,Storage Model 731,4464.64,3,0.1,756.59
+20250603-24366,03-06-2025,10-06-2025,First Class,Kavya Nair,Corporate,India,Ludhiana,Punjab,North,Office Supplies,Binders,Binders Model 789,347.38,1,0.1,31.25
+20241111-32349,11-11-2024,11-11-2024,Standard Class,Priya Kulkarni,Home Office,India,Thiruvananthapuram,Kerala,South,Office Supplies,Paper,Paper Model 591,294.09,2,0.2,-39.09
+20250124-51116,24-01-2025,26-01-2025,Second Class,Kavya Gupta,Consumer,India,Vijayawada,Andhra Pradesh,South,Furniture,Chairs,Chairs Model 551,7994.31,2,0.1,854.64
+20250226-77984,26-02-2025,01-03-2025,Standard Class,Krishna Das,Home Office,India,Vadodara,Gujarat,West,Technology,Accessories,Accessories Model 241,2044.06,2,0.2,126.11
+20241128-81601,28-11-2024,05-12-2024,Same Day,Diya Kulkarni,Home Office,India,Noida,Uttar Pradesh,North,Office Supplies,Paper,Paper Model 450,428.01,2,0,-33.9
+20240927-47880,27-09-2024,04-10-2024,Second Class,Krishna Chatterjee,Corporate,India,Hyderabad,Telangana,South,Office Supplies,Storage,Storage Model 889,3674.61,3,0.1,678.34
+20250515-85166,15-05-2025,20-05-2025,First Class,Riya Khan,Corporate,India,Udaipur,Rajasthan,North,Technology,Appliances,Appliances Model 224,4970.21,1,0.1,702.9
+20250208-55398,08-02-2025,13-02-2025,First Class,Meera Kulkarni,Home Office,India,Gurugram,Haryana,North,Office Supplies,Binders,Binders Model 180,916.24,2,0,155.43
+20240919-90698,19-09-2024,26-09-2024,First Class,Saanvi Patel,Consumer,India,Hyderabad,Telangana,South,Technology,Accessories,Accessories Model 211,2001.77,2,0.1,361.34
+20240905-53292,05-09-2024,05-09-2024,Standard Class,Nisha Verma,Consumer,India,Vijayawada,Andhra Pradesh,South,Technology,Phones,Phones Model 523,33990.21,2,0,7850.85
+20240520-47649,20-05-2024,20-05-2024,Same Day,Ananya Iyer,Home Office,India,Lucknow,Uttar Pradesh,North,Office Supplies,Art,Art Model 304,753.93,1,0,88.37
+20240301-33040,01-03-2024,02-03-2024,Standard Class,Vivaan Mehta,Consumer,India,Vijayawada,Andhra Pradesh,South,Technology,Appliances,Appliances Model 527,3912.59,1,0.3,210.21
+20250210-89007,10-02-2025,17-02-2025,Standard Class,Vihaan Malhotra,Corporate,India,Madurai,Tamil Nadu,South,Office Supplies,Binders,Binders Model 681,724.92,2,0,65.17
+20241209-24764,09-12-2024,13-12-2024,First Class,Ananya Gupta,Consumer,India,Udaipur,Rajasthan,North,Furniture,Furnishings,Furnishings Model 928,5057.38,2,0,820.22
+20250414-35318,14-04-2025,18-04-2025,First Class,Sai Nair,Home Office,India,Chandigarh,Punjab,North,Furniture,Bookcases,Bookcases Model 790,5932.99,1,0.1,646.15
+20250219-72580,19-02-2025,25-02-2025,Standard Class,Ananya Malhotra,Consumer,India,Noida,Uttar Pradesh,North,Furniture,Furnishings,Furnishings Model 243,3389.1,2,0.3,189.96
+20240911-86344,11-09-2024,11-09-2024,First Class,Saanvi Sharma,Corporate,India,New Delhi,Delhi,North,Furniture,Furnishings,Furnishings Model 409,2649.08,1,0,492.36
+20240924-63138,24-09-2024,29-09-2024,Same Day,Priya Malhotra,Corporate,India,Chandigarh,Punjab,North,Furniture,Chairs,Chairs Model 263,12926.1,3,0,2389.05
+20241114-30078,14-11-2024,15-11-2024,Second Class,Meera Chatterjee,Consumer,India,Visakhapatnam,Andhra Pradesh,South,Office Supplies,Paper,Paper Model 589,427.69,3,0.3,-35.29
+20250117-88094,17-01-2025,23-01-2025,Second Class,Aditya Das,Consumer,India,Ludhiana,Punjab,North,Technology,Appliances,Appliances Model 796,10000.76,2,0.1,1523.5
+20250402-29641,02-04-2025,07-04-2025,Second Class,Sai Reddy,Home Office,India,Mangaluru,Karnataka,South,Furniture,Chairs,Chairs Model 649,12808.08,3,0.1,1489.73
+20250616-17292,16-06-2025,23-06-2025,Standard Class,Meera Gupta,Home Office,India,Mangaluru,Karnataka,South,Furniture,Furnishings,Furnishings Model 556,5037.88,2,0,687.79
+20250609-61897,09-06-2025,15-06-2025,First Class,Rohit Mehta,Home Office,India,Jaipur,Rajasthan,North,Technology,Accessories,Accessories Model 122,1319.27,1,0,240.71
+20240104-80931,04-01-2024,07-01-2024,First Class,Vivaan Malhotra,Home Office,India,Kochi,Kerala,South,Furniture,Furnishings,Furnishings Model 165,2549.96,1,0,359.81
+20240311-94656,11-03-2024,18-03-2024,Second Class,Kavya Reddy,Home Office,India,Pune,Maharashtra,West,Office Supplies,Paper,Paper Model 846,363.96,2,0,-62.64
+20250126-80419,26-01-2025,02-02-2025,First Class,Isha Das,Consumer,India,Surat,Gujarat,West,Furniture,Tables,Tables Model 282,8197.78,1,0,1503.47
+20240510-40102,10-05-2024,13-05-2024,Same Day,Ishaan Singh,Home Office,India,Mumbai,Maharashtra,West,Office Supplies,Art,Art Model 488,720.6,1,0,148.18
+20241220-90599,20-12-2024,22-12-2024,Standard Class,Aarav Patel,Home Office,India,New Delhi,Delhi,North,Technology,Phones,Phones Model 529,13997.68,1,0,3301.92
+20240730-15798,30-07-2024,31-07-2024,Standard Class,Isha Singh,Consumer,India,Mangaluru,Karnataka,South,Furniture,Furnishings,Furnishings Model 858,2315.35,1,0,211.26
+20240827-51799,27-08-2024,30-08-2024,Second Class,Saanvi Nair,Home Office,India,Gurugram,Haryana,North,Furniture,Bookcases,Bookcases Model 689,5590.75,1,0.1,651.3
+20241124-46064,24-11-2024,27-11-2024,Second Class,Vivaan Das,Corporate,India,New Delhi,Delhi,North,Technology,Appliances,Appliances Model 407,5518.53,1,0,1107.24
+20240628-64568,28-06-2024,04-07-2024,Same Day,Kavya Gupta,Home Office,India,Noida,Uttar Pradesh,North,Furniture,Bookcases,Bookcases Model 426,6365.37,1,0,976.93
+20241103-28920,03-11-2024,09-11-2024,Second Class,Meera Malhotra,Corporate,India,Madurai,Tamil Nadu,South,Office Supplies,Paper,Paper Model 978,150.38,1,0.2,-17.3
+20240229-36651,29-02-2024,06-03-2024,Same Day,Ananya Kulkarni,Consumer,India,Vadodara,Gujarat,West,Technology,Phones,Phones Model 361,14815.23,1,0.1,2609.14
+20240321-59436,21-03-2024,28-03-2024,Second Class,Tanvi Nair,Consumer,India,Kolkata,West Bengal,East,Technology,Appliances,Appliances Model 374,4021.79,1,0.3,155.09
+20240210-37762,10-02-2024,11-02-2024,First Class,Krishna Chatterjee,Corporate,India,Hyderabad,Telangana,South,Office Supplies,Paper,Paper Model 115,181.53,1,0,-59.68
+20240430-71112,30-04-2024,07-05-2024,First Class,Riya Kulkarni,Corporate,India,Hyderabad,Telangana,South,Office Supplies,Paper,Paper Model 489,402.55,2,0,106.4
+20250102-71537,02-01-2025,06-01-2025,Same Day,Ananya Malhotra,Consumer,India,New Delhi,Delhi,North,Technology,Accessories,Accessories Model 922,3760.81,3,0,693.36
+20240727-82523,27-07-2024,01-08-2024,Second Class,Saanvi Nair,Consumer,India,Howrah,West Bengal,East,Furniture,Tables,Tables Model 367,24130.33,3,0,4908.89
+20250303-42208,03-03-2025,07-03-2025,Same Day,Nisha Das,Home Office,India,Chennai,Tamil Nadu,South,Office Supplies,Paper,Paper Model 953,380.84,2,0.1,-45.83
+20241211-56160,11-12-2024,15-12-2024,Same Day,Sai Gupta,Corporate,India,Faridabad,Haryana,North,Technology,Appliances,Appliances Model 272,3357.85,1,0.3,461.89
+20250713-97584,13-07-2025,20-07-2025,Standard Class,Vivaan Bose,Consumer,India,Madurai,Tamil Nadu,South,Technology,Phones,Phones Model 937,16765.31,1,0,3457.83
+20240107-76287,07-01-2024,13-01-2024,Second Class,Meera Reddy,Consumer,India,Madurai,Tamil Nadu,South,Furniture,Chairs,Chairs Model 323,3142.98,1,0.3,260.58
+20240302-79391,02-03-2024,09-03-2024,Same Day,Rohit Das,Consumer,India,Visakhapatnam,Andhra Pradesh,South,Furniture,Chairs,Chairs Model 117,5876.13,2,0.3,281.07
+20241020-78732,20-10-2024,20-10-2024,Second Class,Arjun Patel,Consumer,India,Kanpur,Uttar Pradesh,North,Technology,Accessories,Accessories Model 198,1235.93,1,0,229.47
+20240715-84055,15-07-2024,19-07-2024,First Class,Ishaan Chatterjee,Corporate,India,Howrah,West Bengal,East,Office Supplies,Binders,Binders Model 570,861.36,2,0,80.93
+20240819-59710,19-08-2024,23-08-2024,Standard Class,Isha Das,Consumer,India,Vijayawada,Andhra Pradesh,South,Technology,Appliances,Appliances Model 515,9167.92,2,0.1,1454.84
+20250502-66873,02-05-2025,02-05-2025,Standard Class,Ananya Nair,Corporate,India,Vijayawada,Andhra Pradesh,South,Technology,Phones,Phones Model 965,13919.7,1,0,2947.88
+20240407-19744,07-04-2024,07-04-2024,Same Day,Rohit Malhotra,Corporate,India,Hyderabad,Telangana,South,Technology,Appliances,Appliances Model 147,4652.64,1,0,896.17
+20250710-62205,10-07-2025,10-07-2025,Second Class,Aditya Iyer,Home Office,India,Coimbatore,Tamil Nadu,South,Furniture,Tables,Tables Model 940,5247.68,1,0.3,-37.82
+20240615-28343,15-06-2024,18-06-2024,First Class,Aditya Das,Corporate,India,Thiruvananthapuram,Kerala,South,Technology,Appliances,Appliances Model 873,11169.8,2,0,2349.85
+20241220-90460,20-12-2024,20-12-2024,First Class,Tanvi Khan,Home Office,India,Mysuru,Karnataka,South,Furniture,Chairs,Chairs Model 887,4083.72,1,0,561
+20241130-59207,30-11-2024,30-11-2024,Second Class,Kavya Gupta,Corporate,India,Visakhapatnam,Andhra Pradesh,South,Office Supplies,Art,Art Model 666,2327.16,4,0.1,518.77
+20250124-59807,24-01-2025,25-01-2025,Standard Class,Arjun Chatterjee,Corporate,India,Faridabad,Haryana,North,Furniture,Chairs,Chairs Model 257,7988.61,2,0.2,587.72
+20250202-45358,02-02-2025,07-02-2025,First Class,Vihaan Gupta,Corporate,India,Kolkata,West Bengal,East,Furniture,Chairs,Chairs Model 468,14075.81,3,0,2592.23
+20240330-21746,30-03-2024,01-04-2024,Same Day,Diya Das,Consumer,India,Surat,Gujarat,West,Technology,Appliances,Appliances Model 126,5323.61,1,0,946.86
+20240405-83339,05-04-2024,10-04-2024,Same Day,Ishaan Nair,Consumer,India,Ahmedabad,Gujarat,West,Office Supplies,Art,Art Model 842,2681.44,6,0.3,320.83
+20250617-74634,17-06-2025,19-06-2025,First Class,Arjun Verma,Corporate,India,Visakhapatnam,Andhra Pradesh,South,Furniture,Tables,Tables Model 374,6941.52,1,0.2,575.21
+20240620-42321,20-06-2024,26-06-2024,Standard Class,Nisha Nair,Corporate,India,New Delhi,Delhi,North,Office Supplies,Art,Art Model 357,1374.12,2,0.1,300.28
+20240719-91289,19-07-2024,26-07-2024,Same Day,Isha Bose,Corporate,India,Bengaluru,Karnataka,South,Office Supplies,Binders,Binders Model 961,360.58,1,0,-16.42
+20241203-89064,03-12-2024,10-12-2024,Second Class,Krishna Singh,Corporate,India,Howrah,West Bengal,East,Technology,Appliances,Appliances Model 428,5060.87,1,0,1019.6
+20241117-46739,17-11-2024,19-11-2024,Second Class,Isha Reddy,Corporate,India,Surat,Gujarat,West,Office Supplies,Art,Art Model 485,1493.87,2,0,233.19
+20240426-37479,26-04-2024,29-04-2024,Standard Class,Meera Bose,Home Office,India,Kochi,Kerala,South,Technology,Appliances,Appliances Model 572,5098.98,1,0,1025.3
+20241025-41722,25-10-2024,26-10-2024,Second Class,Rohit Kulkarni,Home Office,India,Faridabad,Haryana,North,Technology,Accessories,Accessories Model 410,1240.08,1,0,188.39
+20240606-80040,06-06-2024,12-06-2024,Same Day,Priya Malhotra,Home Office,India,Faridabad,Haryana,North,Furniture,Furnishings,Furnishings Model 510,9045.58,4,0,1573.54
+20250304-42536,04-03-2025,04-03-2025,Standard Class,Diya Gupta,Consumer,India,Faridabad,Haryana,North,Technology,Appliances,Appliances Model 887,5658.79,1,0,1179.34
+20240215-39098,15-02-2024,21-02-2024,Standard Class,Priya Chatterjee,Consumer,India,Faridabad,Haryana,North,Office Supplies,Binders,Binders Model 364,385.68,1,0,22.56
+20250615-73277,15-06-2025,18-06-2025,Second Class,Vihaan Iyer,Corporate,India,Udaipur,Rajasthan,North,Office Supplies,Art,Art Model 125,663.13,1,0.1,123.57
+20250301-37114,01-03-2025,02-03-2025,First Class,Priya Singh,Corporate,India,Mangaluru,Karnataka,South,Furniture,Bookcases,Bookcases Model 566,6421.68,1,0,1220.42
+20241222-49356,22-12-2024,29-12-2024,Same Day,Vivaan Bose,Corporate,India,Mysuru,Karnataka,South,Technology,Appliances,Appliances Model 168,3374.49,1,0.3,323.53
+20240427-82339,27-04-2024,27-04-2024,Second Class,Sai Reddy,Home Office,India,Kolkata,West Bengal,East,Technology,Phones,Phones Model 278,11112.02,1,0.3,1055.89
+20250727-66640,27-07-2025,02-08-2025,Second Class,Isha Sharma,Home Office,India,Jaipur,Rajasthan,North,Office Supplies,Paper,Paper Model 773,190.6,1,0,-83.47
+20240721-18200,21-07-2024,28-07-2024,Second Class,Saanvi Verma,Consumer,India,Thiruvananthapuram,Kerala,South,Office Supplies,Binders,Binders Model 385,345.32,1,0.1,18.75
+20250703-74157,03-07-2025,05-07-2025,Standard Class,Priya Kulkarni,Corporate,India,Howrah,West Bengal,East,Furniture,Furnishings,Furnishings Model 786,4619.42,2,0,830.3
+20241116-70012,16-11-2024,22-11-2024,First Class,Tanvi Gupta,Corporate,India,Thiruvananthapuram,Kerala,South,Technology,Phones,Phones Model 965,33470.98,2,0,6310.66
+20241031-33992,31-10-2024,01-11-2024,Second Class,Diya Chatterjee,Corporate,India,Vijayawada,Andhra Pradesh,South,Office Supplies,Binders,Binders Model 219,829.34,2,0,137.52
+20240524-93296,24-05-2024,30-05-2024,Same Day,Riya Chatterjee,Consumer,India,Vadodara,Gujarat,West,Furniture,Furnishings,Furnishings Model 598,10508.74,5,0.1,1358.53
+20240626-17026,26-06-2024,28-06-2024,First Class,Diya Sharma,Corporate,India,Udaipur,Rajasthan,North,Furniture,Tables,Tables Model 734,18365.02,2,0,3466.14
+20250511-74451,11-05-2025,13-05-2025,Same Day,Kavya Chatterjee,Corporate,India,Warangal,Telangana,South,Technology,Appliances,Appliances Model 801,4599.27,1,0,878.3
+20250330-46025,30-03-2025,06-04-2025,Second Class,Ishaan Das,Corporate,India,Chennai,Tamil Nadu,South,Technology,Phones,Phones Model 133,14831.24,1,0,2758.05
+20241022-24838,22-10-2024,24-10-2024,Same Day,Saanvi Verma,Home Office,India,Faridabad,Haryana,North,Technology,Appliances,Appliances Model 623,4140.01,1,0.2,489.17
+20241001-95678,01-10-2024,06-10-2024,Second Class,Ishaan Iyer,Corporate,India,Lucknow,Uttar Pradesh,North,Technology,Accessories,Accessories Model 204,896.59,1,0.3,-34.24
+20240203-87060,03-02-2024,10-02-2024,Standard Class,Diya Mehta,Consumer,India,New Delhi,Delhi,North,Furniture,Furnishings,Furnishings Model 314,2287.59,1,0,263.7
+20250314-79767,14-03-2025,16-03-2025,Standard Class,Rohit Nair,Home Office,India,Kochi,Kerala,South,Furniture,Tables,Tables Model 459,8271.66,1,0,1563.9
+20250705-63948,05-07-2025,07-07-2025,Standard Class,Vivaan Iyer,Consumer,India,Howrah,West Bengal,East,Office Supplies,Storage,Storage Model 868,2637.27,2,0.2,465.53
+20240509-74154,09-05-2024,11-05-2024,Second Class,Arjun Nair,Home Office,India,Hyderabad,Telangana,South,Technology,Accessories,Accessories Model 502,8148.6,6,0,1709.4
+20241002-46467,02-10-2024,08-10-2024,Same Day,Diya Singh,Home Office,India,Surat,Gujarat,West,Furniture,Chairs,Chairs Model 867,4899.68,1,0,858.54
+20250514-56952,14-05-2025,19-05-2025,Same Day,Aditya Bose,Home Office,India,Kochi,Kerala,South,Technology,Phones,Phones Model 780,14636.73,1,0,2717.4
+20250701-47171,01-07-2025,07-07-2025,First Class,Ananya Das,Corporate,India,Warangal,Telangana,South,Furniture,Furnishings,Furnishings Model 948,2440.95,1,0,376.75
+20250814-70238,14-08-2025,16-08-2025,Standard Class,Aarav Verma,Consumer,India,Thiruvananthapuram,Kerala,South,Office Supplies,Binders,Binders Model 741,860.36,3,0.3,-79.07
+20240610-30837,10-06-2024,17-06-2024,Second Class,Rohit Verma,Home Office,India,Jaipur,Rajasthan,North,Office Supplies,Paper,Paper Model 409,220.87,1,0,-60.79
+20250104-91999,04-01-2025,08-01-2025,Second Class,Manish Chatterjee,Consumer,India,Mysuru,Karnataka,South,Technology,Appliances,Appliances Model 505,9761.7,2,0,1852.11
+20240827-20215,27-08-2024,02-09-2024,Standard Class,Arjun Nair,Consumer,India,Vijayawada,Andhra Pradesh,South,Technology,Phones,Phones Model 588,17158.54,1,0,3267.26
+20240819-27324,19-08-2024,26-08-2024,Standard Class,Nisha Verma,Corporate,India,Mumbai,Maharashtra,West,Technology,Accessories,Accessories Model 810,3678.36,3,0,662.09
+20240822-27973,22-08-2024,28-08-2024,First Class,Isha Bose,Corporate,India,Mangaluru,Karnataka,South,Furniture,Chairs,Chairs Model 406,4214.67,1,0,618.45
+20240516-37925,16-05-2024,18-05-2024,Second Class,Arjun Malhotra,Corporate,India,Mangaluru,Karnataka,South,Technology,Phones,Phones Model 459,43570.06,4,0.3,4142.06
+20250225-60335,25-02-2025,04-03-2025,Standard Class,Diya Khan,Home Office,India,Hyderabad,Telangana,South,Furniture,Tables,Tables Model 847,7411.33,1,0,1289.69
+20241118-88644,18-11-2024,20-11-2024,Second Class,Tanvi Iyer,Home Office,India,Warangal,Telangana,South,Technology,Phones,Phones Model 715,12357.05,1,0.1,1767.32
+20240128-41370,28-01-2024,01-02-2024,First Class,Nisha Khan,Home Office,India,Hyderabad,Telangana,South,Technology,Accessories,Accessories Model 155,901.96,1,0.3,80.86
+20240425-60703,25-04-2024,28-04-2024,First Class,Saanvi Khan,Corporate,India,Jaipur,Rajasthan,North,Technology,Phones,Phones Model 235,12491.03,1,0.1,2324.64
+20250109-38277,09-01-2025,11-01-2025,Standard Class,Vivaan Malhotra,Consumer,India,Faridabad,Haryana,North,Furniture,Chairs,Chairs Model 368,9484.24,2,0,1658.64
+20240302-62727,02-03-2024,08-03-2024,Same Day,Aditya Kulkarni,Corporate,India,Noida,Uttar Pradesh,North,Technology,Appliances,Appliances Model 818,5608.26,1,0,1127.2
+20250703-52827,03-07-2025,05-07-2025,Second Class,Isha Nair,Consumer,India,New Delhi,Delhi,North,Office Supplies,Binders,Binders Model 649,780.05,2,0.1,102.94
+20240308-66948,08-03-2024,12-03-2024,Standard Class,Vihaan Singh,Consumer,India,Ludhiana,Punjab,North,Technology,Phones,Phones Model 188,13026.87,1,0.1,2529.25
+20240226-31473,26-02-2024,01-03-2024,Second Class,Nisha Reddy,Home Office,India,Vijayawada,Andhra Pradesh,South,Furniture,Chairs,Chairs Model 111,3024.95,1,0.3,82.27
+20250619-66272,19-06-2025,23-06-2025,Standard Class,Rohit Das,Consumer,India,Coimbatore,Tamil Nadu,South,Furniture,Bookcases,Bookcases Model 443,6221.94,1,0,896.67
+20240306-84302,06-03-2024,10-03-2024,First Class,Sai Reddy,Consumer,India,Chandigarh,Punjab,North,Office Supplies,Art,Art Model 611,618.14,1,0.1,66.63
+20240610-76692,10-06-2024,14-06-2024,Standard Class,Aarav Sharma,Consumer,India,Gurugram,Haryana,North,Technology,Appliances,Appliances Model 858,4385.02,1,0.2,482.34
+20240113-14635,13-01-2024,16-01-2024,Second Class,Riya Bose,Consumer,India,Pune,Maharashtra,West,Office Supplies,Art,Art Model 978,1413.16,2,0,178.89
+20250305-58864,05-03-2025,08-03-2025,First Class,Vihaan Das,Consumer,India,Kolkata,West Bengal,East,Office Supplies,Storage,Storage Model 685,1430.06,1,0.1,197.35
+20240223-50723,23-02-2024,25-02-2024,Same Day,Ananya Verma,Corporate,India,Hyderabad,Telangana,South,Office Supplies,Binders,Binders Model 892,411.84,1,0,1.23
+20250720-41795,20-07-2025,27-07-2025,First Class,Meera Reddy,Home Office,India,Pune,Maharashtra,West,Furniture,Bookcases,Bookcases Model 737,4974.47,1,0.1,651.79
+20250520-80981,20-05-2025,23-05-2025,Same Day,Diya Kulkarni,Consumer,India,Chandigarh,Punjab,North,Furniture,Chairs,Chairs Model 338,19518.79,4,0,3221.17
+20240110-41217,10-01-2024,15-01-2024,Standard Class,Kavya Singh,Consumer,India,Nagpur,Maharashtra,West,Office Supplies,Storage,Storage Model 642,2838.9,2,0,622.37
+20240302-58823,02-03-2024,04-03-2024,Second Class,Meera Chatterjee,Home Office,India,Ludhiana,Punjab,North,Furniture,Chairs,Chairs Model 522,4073.56,1,0,567.86
+20240327-18163,27-03-2024,28-03-2024,Standard Class,Kavya Kulkarni,Home Office,India,Lucknow,Uttar Pradesh,North,Technology,Accessories,Accessories Model 681,2389.16,2,0,425.91
+20240513-45645,13-05-2024,16-05-2024,First Class,Ishaan Verma,Corporate,India,New Delhi,Delhi,North,Office Supplies,Art,Art Model 563,1445.61,2,0,343.39
+20240726-51160,26-07-2024,28-07-2024,Second Class,Kavya Verma,Corporate,India,Gurugram,Haryana,North,Furniture,Chairs,Chairs Model 577,23635.58,5,0,4598.06
+20250702-25717,02-07-2025,07-07-2025,Same Day,Aditya Gupta,Corporate,India,Gurugram,Haryana,North,Office Supplies,Storage,Storage Model 972,1181.48,1,0.2,153.01
+20241107-77300,07-11-2024,07-11-2024,Second Class,Vivaan Kulkarni,Corporate,India,Warangal,Telangana,South,Furniture,Chairs,Chairs Model 505,3791.65,1,0.2,342.09
+20241102-23357,02-11-2024,06-11-2024,Second Class,Arjun Verma,Consumer,India,Chennai,Tamil Nadu,South,Office Supplies,Art,Art Model 573,2229.05,3,0,478.62
+20240113-92614,13-01-2024,13-01-2024,Same Day,Aditya Nair,Corporate,India,Gurugram,Haryana,North,Furniture,Tables,Tables Model 802,20802.1,3,0.1,3262.71
+20240922-53456,22-09-2024,23-09-2024,Second Class,Vihaan Sharma,Consumer,India,Mumbai,Maharashtra,West,Furniture,Furnishings,Furnishings Model 967,5320.2,2,0,971.74
+20250417-99550,17-04-2025,17-04-2025,Same Day,Kavya Gupta,Consumer,India,Madurai,Tamil Nadu,South,Office Supplies,Art,Art Model 491,658.84,1,0,145.25
+20241228-91156,28-12-2024,31-12-2024,Second Class,Tanvi Patel,Consumer,India,Coimbatore,Tamil Nadu,South,Office Supplies,Art,Art Model 728,699.41,1,0.1,73.23
+20241029-27987,29-10-2024,05-11-2024,Standard Class,Kavya Patel,Corporate,India,Vadodara,Gujarat,West,Office Supplies,Binders,Binders Model 492,374.85,1,0.1,-37.98
+20250622-73527,22-06-2025,25-06-2025,Same Day,Diya Malhotra,Home Office,India,Vijayawada,Andhra Pradesh,South,Office Supplies,Storage,Storage Model 900,1523.08,1,0,252.69
+20250802-13840,02-08-2025,07-08-2025,First Class,Rohit Sharma,Home Office,India,Surat,Gujarat,West,Furniture,Chairs,Chairs Model 324,4051.51,1,0.1,518.61
+20250428-44934,28-04-2025,03-05-2025,Second Class,Riya Mehta,Home Office,India,Gurugram,Haryana,North,Furniture,Chairs,Chairs Model 346,8523.06,2,0,1561.1
+20240227-51681,27-02-2024,01-03-2024,Second Class,Diya Malhotra,Consumer,India,Thiruvananthapuram,Kerala,South,Office Supplies,Paper,Paper Model 706,327.18,2,0.1,26.4
+20240129-33010,29-01-2024,03-02-2024,Same Day,Nisha Sharma,Home Office,India,Kochi,Kerala,South,Technology,Phones,Phones Model 416,14058.33,1,0,3456.24
+20240402-36406,02-04-2024,02-04-2024,Standard Class,Arjun Reddy,Corporate,India,Hyderabad,Telangana,South,Furniture,Furnishings,Furnishings Model 728,2161.04,1,0.2,124.06
+20240630-57826,30-06-2024,05-07-2024,Standard Class,Aditya Reddy,Home Office,India,Mumbai,Maharashtra,West,Furniture,Tables,Tables Model 981,14412.87,2,0,2834.78
+20250209-93789,09-02-2025,10-02-2025,Second Class,Nisha Kulkarni,Home Office,India,Howrah,West Bengal,East,Office Supplies,Paper,Paper Model 547,204.05,1,0,-32.23
+20241120-48602,20-11-2024,22-11-2024,Same Day,Arjun Gupta,Corporate,India,Ludhiana,Punjab,North,Furniture,Tables,Tables Model 851,7566.28,1,0.1,738.72
+20240102-23645,02-01-2024,08-01-2024,Second Class,Nisha Gupta,Home Office,India,Gurugram,Haryana,North,Furniture,Bookcases,Bookcases Model 679,5515.59,1,0,980.94
+20241205-93768,05-12-2024,06-12-2024,Standard Class,Ananya Singh,Home Office,India,Warangal,Telangana,South,Office Supplies,Paper,Paper Model 786,411.73,2,0,33.59
+20240112-24160,12-01-2024,16-01-2024,First Class,Aarav Sharma,Corporate,India,Hyderabad,Telangana,South,Technology,Phones,Phones Model 905,14327.29,1,0,3440.43
+20250130-81568,30-01-2025,06-02-2025,Same Day,Isha Verma,Corporate,India,Ludhiana,Punjab,North,Furniture,Furnishings,Furnishings Model 459,5026.56,2,0,728.19
+20250505-44226,05-05-2025,08-05-2025,First Class,Vihaan Verma,Consumer,India,Coimbatore,Tamil Nadu,South,Furniture,Chairs,Chairs Model 426,8963.62,2,0,1389.42
+20241216-90431,16-12-2024,18-12-2024,Standard Class,Nisha Chatterjee,Corporate,India,Ahmedabad,Gujarat,West,Technology,Phones,Phones Model 708,13598.24,1,0,2728.75
+20240201-53397,01-02-2024,07-02-2024,Second Class,Krishna Patel,Consumer,India,Vijayawada,Andhra Pradesh,South,Technology,Accessories,Accessories Model 203,1362.2,1,0,203.86
+20250223-84943,23-02-2025,27-02-2025,Standard Class,Riya Mehta,Consumer,India,Visakhapatnam,Andhra Pradesh,South,Office Supplies,Paper,Paper Model 502,220.13,1,0,38.1
+20250517-96772,17-05-2025,19-05-2025,Standard Class,Tanvi Singh,Corporate,India,Pune,Maharashtra,West,Furniture,Furnishings,Furnishings Model 943,5120.58,2,0,979.44
+20240723-25139,23-07-2024,24-07-2024,Standard Class,Manish Bose,Corporate,India,Mumbai,Maharashtra,West,Furniture,Bookcases,Bookcases Model 964,10085.46,2,0.1,1614.61
+20250211-58418,11-02-2025,18-02-2025,Second Class,Sai Singh,Corporate,India,Udaipur,Rajasthan,North,Furniture,Furnishings,Furnishings Model 490,2426.37,1,0,458.46
+20240215-29808,15-02-2024,19-02-2024,First Class,Vihaan Verma,Home Office,India,Udaipur,Rajasthan,North,Office Supplies,Paper,Paper Model 163,217.97,1,0,-24.33
+20241218-80190,18-12-2024,24-12-2024,Same Day,Nisha Nair,Home Office,India,Gurugram,Haryana,North,Technology,Phones,Phones Model 528,10987.96,1,0.2,1815.14
+20240829-68856,29-08-2024,05-09-2024,Second Class,Sai Gupta,Consumer,India,New Delhi,Delhi,North,Office Supplies,Binders,Binders Model 875,449.98,1,0,40.98
+20240804-92211,04-08-2024,07-08-2024,Same Day,Arjun Mehta,Consumer,India,Chennai,Tamil Nadu,South,Office Supplies,Binders,Binders Model 942,1460.9,4,0,238.26
+20240921-46202,21-09-2024,26-09-2024,Same Day,Priya Singh,Home Office,India,Chandigarh,Punjab,North,Furniture,Furnishings,Furnishings Model 433,2658.86,1,0,327.04
+20240113-23237,13-01-2024,19-01-2024,Standard Class,Manish Mehta,Consumer,India,Mysuru,Karnataka,South,Furniture,Tables,Tables Model 676,15798.03,2,0,2545.63
+20250702-46099,02-07-2025,07-07-2025,Same Day,Isha Gupta,Consumer,India,Surat,Gujarat,West,Office Supplies,Art,Art Model 276,2184.64,3,0,484.94
+20250215-45203,15-02-2025,15-02-2025,Standard Class,Diya Sharma,Home Office,India,Surat,Gujarat,West,Technology,Phones,Phones Model 586,16154.38,1,0,3440.84
+20241211-68079,11-12-2024,15-12-2024,Second Class,Ananya Iyer,Consumer,India,New Delhi,Delhi,North,Office Supplies,Binders,Binders Model 407,409.11,1,0.1,20.46
+20250302-59009,02-03-2025,03-03-2025,Same Day,Vivaan Das,Home Office,India,Warangal,Telangana,South,Furniture,Furnishings,Furnishings Model 988,5181.79,2,0,959.1
+20240611-36309,11-06-2024,12-06-2024,Second Class,Vivaan Patel,Consumer,India,New Delhi,Delhi,North,Furniture,Chairs,Chairs Model 996,4934.56,1,0,739.42
+20240203-70846,03-02-2024,10-02-2024,First Class,Priya Khan,Corporate,India,Pune,Maharashtra,West,Technology,Phones,Phones Model 943,30895.39,2,0,7370.04
+20240506-82264,06-05-2024,06-05-2024,Second Class,Diya Reddy,Corporate,India,Warangal,Telangana,South,Office Supplies,Art,Art Model 700,496.28,1,0.3,24.46
+20240616-85007,16-06-2024,20-06-2024,Same Day,Krishna Mehta,Consumer,India,Chandigarh,Punjab,North,Office Supplies,Binders,Binders Model 266,450.92,1,0,3.54
+20240814-72140,14-08-2024,17-08-2024,Standard Class,Arjun Kulkarni,Home Office,India,Vijayawada,Andhra Pradesh,South,Office Supplies,Art,Art Model 109,1253.83,2,0.1,139.22
+20240626-55706,26-06-2024,26-06-2024,First Class,Meera Iyer,Corporate,India,Warangal,Telangana,South,Technology,Accessories,Accessories Model 485,1317.86,1,0,254.09
+20240811-59051,11-08-2024,18-08-2024,Standard Class,Riya Kulkarni,Home Office,India,New Delhi,Delhi,North,Technology,Phones,Phones Model 778,46496.57,3,0,10999.87
+20241016-52616,16-10-2024,20-10-2024,First Class,Rohit Iyer,Corporate,India,Vijayawada,Andhra Pradesh,South,Office Supplies,Binders,Binders Model 755,1351.84,3,0,278.52
+20241101-99228,01-11-2024,04-11-2024,Same Day,Arjun Chatterjee,Home Office,India,Madurai,Tamil Nadu,South,Furniture,Chairs,Chairs Model 427,4550.16,1,0.1,591.75
+20240127-86418,27-01-2024,03-02-2024,Same Day,Saanvi Mehta,Home Office,India,New Delhi,Delhi,North,Office Supplies,Art,Art Model 136,705.98,1,0.1,105.23
+20240713-76494,13-07-2024,18-07-2024,Same Day,Manish Mehta,Home Office,India,Chandigarh,Punjab,North,Technology,Appliances,Appliances Model 467,26674.5,5,0,6415.53
+20240623-83273,23-06-2024,25-06-2024,First Class,Sai Kulkarni,Home Office,India,New Delhi,Delhi,North,Office Supplies,Paper,Paper Model 927,180.63,1,0,-86
+20241209-44152,09-12-2024,10-12-2024,Same Day,Saanvi Iyer,Corporate,India,Warangal,Telangana,South,Furniture,Bookcases,Bookcases Model 480,6497.24,1,0,1212.77
+20250419-75598,19-04-2025,20-04-2025,Standard Class,Vihaan Mehta,Corporate,India,Jaipur,Rajasthan,North,Technology,Appliances,Appliances Model 299,9785.88,2,0,2075.31
+20250125-84632,25-01-2025,29-01-2025,Second Class,Meera Gupta,Corporate,India,Ahmedabad,Gujarat,West,Furniture,Tables,Tables Model 519,8856.5,1,0,1582.94
+20241119-17603,19-11-2024,21-11-2024,Second Class,Aarav Singh,Corporate,India,Gurugram,Haryana,North,Office Supplies,Storage,Storage Model 749,1439.95,1,0,243.37
+20241007-90541,07-10-2024,10-10-2024,Same Day,Kavya Kulkarni,Consumer,India,Gurugram,Haryana,North,Technology,Phones,Phones Model 232,31656.96,2,0,6763.13
+20250315-58903,15-03-2025,21-03-2025,Standard Class,Aarav Malhotra,Home Office,India,Surat,Gujarat,West,Office Supplies,Binders,Binders Model 304,670.73,2,0.1,142.6
+20241125-55134,25-11-2024,28-11-2024,Second Class,Manish Gupta,Home Office,India,Nagpur,Maharashtra,West,Furniture,Tables,Tables Model 998,8911.47,1,0,1389.61
+20240415-48119,15-04-2024,21-04-2024,Standard Class,Meera Chatterjee,Consumer,India,Kanpur,Uttar Pradesh,North,Office Supplies,Paper,Paper Model 405,411.27,2,0,45.71
+20250616-34697,16-06-2025,21-06-2025,Same Day,Sai Malhotra,Corporate,India,Vadodara,Gujarat,West,Furniture,Bookcases,Bookcases Model 868,10891.93,2,0.2,946.11
+20250217-87292,17-02-2025,17-02-2025,Second Class,Priya Gupta,Home Office,India,Hyderabad,Telangana,South,Technology,Phones,Phones Model 122,15211.78,1,0.1,2279.23
+20240506-96765,06-05-2024,11-05-2024,Standard Class,Vihaan Kulkarni,Home Office,India,Chandigarh,Punjab,North,Office Supplies,Storage,Storage Model 149,1674.21,1,0,449.84
+20240121-43126,21-01-2024,21-01-2024,Same Day,Nisha Chatterjee,Consumer,India,Chandigarh,Punjab,North,Office Supplies,Art,Art Model 660,573.62,1,0.1,-25.45
+20240605-45386,05-06-2024,08-06-2024,Standard Class,Tanvi Nair,Home Office,India,Chandigarh,Punjab,North,Office Supplies,Art,Art Model 632,710.45,1,0.1,-24.44
+20240520-23928,20-05-2024,26-05-2024,Standard Class,Nisha Patel,Corporate,India,Mangaluru,Karnataka,South,Technology,Appliances,Appliances Model 216,8785.69,2,0.1,1837.81
+20240723-81845,23-07-2024,27-07-2024,First Class,Nisha Malhotra,Consumer,India,Lucknow,Uttar Pradesh,North,Office Supplies,Art,Art Model 140,1449.24,2,0,249.6
+20240731-85255,31-07-2024,07-08-2024,Standard Class,Nisha Gupta,Consumer,India,Kolkata,West Bengal,East,Furniture,Chairs,Chairs Model 955,4723.15,1,0,911.86
+20240402-70853,02-04-2024,03-04-2024,Same Day,Vivaan Verma,Corporate,India,Chandigarh,Punjab,North,Office Supplies,Paper,Paper Model 370,601.06,3,0.1,110.33
+20240627-22451,27-06-2024,27-06-2024,Same Day,Vivaan Sharma,Home Office,India,New Delhi,Delhi,North,Technology,Accessories,Accessories Model 218,1036.67,1,0.1,61.73
+20240521-54921,21-05-2024,23-05-2024,Standard Class,Sai Verma,Corporate,India,Howrah,West Bengal,East,Office Supplies,Storage,Storage Model 934,4636.63,3,0,1169.45
+20250214-31860,14-02-2025,20-02-2025,Same Day,Vihaan Gupta,Home Office,India,Udaipur,Rajasthan,North,Office Supplies,Art,Art Model 916,710.27,1,0.1,70.19
+20240301-59774,01-03-2024,03-03-2024,Same Day,Diya Nair,Consumer,India,Mysuru,Karnataka,South,Technology,Accessories,Accessories Model 725,1209.13,1,0,195.59
+20240130-44290,30-01-2024,01-02-2024,Same Day,Ananya Sharma,Consumer,India,Udaipur,Rajasthan,North,Furniture,Furnishings,Furnishings Model 164,7581.34,3,0,1300.96
+20250621-42581,21-06-2025,24-06-2025,Standard Class,Nisha Reddy,Corporate,India,Visakhapatnam,Andhra Pradesh,South,Technology,Appliances,Appliances Model 777,5140.45,1,0,1029.26
+20250129-71510,29-01-2025,31-01-2025,Second Class,Nisha Mehta,Home Office,India,Kanpur,Uttar Pradesh,North,Furniture,Chairs,Chairs Model 969,17012.64,4,0.1,2503.75
+20240618-76444,18-06-2024,19-06-2024,First Class,Ishaan Das,Corporate,India,Faridabad,Haryana,North,Office Supplies,Paper,Paper Model 151,198.09,1,0,3.72
+20250122-75333,22-01-2025,28-01-2025,Same Day,Meera Reddy,Consumer,India,Hyderabad,Telangana,South,Office Supplies,Art,Art Model 977,3439.93,5,0,840.74
+20240501-81971,01-05-2024,08-05-2024,Same Day,Aarav Mehta,Consumer,India,Chandigarh,Punjab,North,Furniture,Furnishings,Furnishings Model 670,2572.86,1,0,414.24
+20240403-17113,03-04-2024,07-04-2024,First Class,Ishaan Mehta,Corporate,India,Kanpur,Uttar Pradesh,North,Furniture,Furnishings,Furnishings Model 945,2215.61,1,0.1,261.46
+20250410-24945,10-04-2025,15-04-2025,First Class,Vihaan Bose,Home Office,India,Kanpur,Uttar Pradesh,North,Technology,Accessories,Accessories Model 563,4796.42,4,0,892.3
+20240815-16000,15-08-2024,15-08-2024,First Class,Sai Singh,Home Office,India,Howrah,West Bengal,East,Technology,Accessories,Accessories Model 208,1342.27,1,0,315.27
+20240523-61497,23-05-2024,29-05-2024,Second Class,Krishna Singh,Consumer,India,Mysuru,Karnataka,South,Technology,Phones,Phones Model 972,14979.66,1,0,3554.77
+20240714-87242,14-07-2024,19-07-2024,Same Day,Priya Gupta,Corporate,India,Mysuru,Karnataka,South,Furniture,Chairs,Chairs Model 774,7916.48,2,0.1,1116.54
+20250525-33226,25-05-2025,25-05-2025,Same Day,Saanvi Gupta,Home Office,India,Kanpur,Uttar Pradesh,North,Furniture,Furnishings,Furnishings Model 899,4563.92,2,0,746.94
+20240511-64875,11-05-2024,12-05-2024,First Class,Tanvi Malhotra,Home Office,India,Vadodara,Gujarat,West,Technology,Appliances,Appliances Model 493,4979.8,1,0,919.48
+20240911-88974,11-09-2024,15-09-2024,Second Class,Priya Iyer,Consumer,India,Surat,Gujarat,West,Office Supplies,Art,Art Model 522,1284.85,2,0,254.98
+20250714-98129,14-07-2025,19-07-2025,First Class,Arjun Chatterjee,Home Office,India,Chandigarh,Punjab,North,Furniture,Tables,Tables Model 453,15847.68,2,0,2845
+20240701-79979,01-07-2024,06-07-2024,Same Day,Manish Malhotra,Home Office,India,Chandigarh,Punjab,North,Office Supplies,Art,Art Model 865,1409.22,2,0.1,341.39
+20250308-17419,08-03-2025,08-03-2025,Second Class,Krishna Iyer,Consumer,India,Lucknow,Uttar Pradesh,North,Furniture,Furnishings,Furnishings Model 786,2338.84,1,0,319.33
+20240613-80932,13-06-2024,17-06-2024,First Class,Vivaan Reddy,Consumer,India,Visakhapatnam,Andhra Pradesh,South,Furniture,Chairs,Chairs Model 871,4099.21,1,0,589.91
+20250408-47701,08-04-2025,09-04-2025,Same Day,Vivaan Malhotra,Consumer,India,Kochi,Kerala,South,Technology,Appliances,Appliances Model 623,10002.61,2,0.1,1891
+20250125-36619,25-01-2025,31-01-2025,Standard Class,Tanvi Mehta,Home Office,India,Vadodara,Gujarat,West,Office Supplies,Binders,Binders Model 357,438.9,1,0,-10.42
+20250329-48558,29-03-2025,01-04-2025,Second Class,Meera Gupta,Home Office,India,Visakhapatnam,Andhra Pradesh,South,Technology,Appliances,Appliances Model 298,15116.19,3,0,3118.56
+20240317-46583,17-03-2024,19-03-2024,Same Day,Riya Iyer,Consumer,India,Madurai,Tamil Nadu,South,Technology,Phones,Phones Model 538,32163.04,2,0,6920.42
+20240513-15235,13-05-2024,15-05-2024,Same Day,Arjun Malhotra,Home Office,India,Thiruvananthapuram,Kerala,South,Furniture,Bookcases,Bookcases Model 258,17756.45,3,0,3255.98
+20241126-78864,26-11-2024,26-11-2024,Standard Class,Ishaan Gupta,Home Office,India,Faridabad,Haryana,North,Office Supplies,Storage,Storage Model 425,1376.89,1,0,267.99
+20250617-37964,17-06-2025,18-06-2025,Standard Class,Ananya Reddy,Corporate,India,Gurugram,Haryana,North,Office Supplies,Art,Art Model 326,467.69,1,0.3,47.58
+20250104-55351,04-01-2025,08-01-2025,Standard Class,Meera Patel,Consumer,India,Warangal,Telangana,South,Technology,Appliances,Appliances Model 784,4534.42,1,0,960.22
+20240906-47070,06-09-2024,06-09-2024,Same Day,Aarav Malhotra,Corporate,India,Visakhapatnam,Andhra Pradesh,South,Office Supplies,Binders,Binders Model 653,398.8,1,0,37.05
+20250613-35232,13-06-2025,18-06-2025,Standard Class,Ananya Das,Corporate,India,Kanpur,Uttar Pradesh,North,Office Supplies,Art,Art Model 767,787.51,1,0,54.83
+20240325-92511,25-03-2024,26-03-2024,Standard Class,Krishna Mehta,Consumer,India,Madurai,Tamil Nadu,South,Technology,Phones,Phones Model 786,23240.21,2,0.3,3498.71
+20250310-53478,10-03-2025,11-03-2025,Second Class,Vivaan Verma,Consumer,India,Warangal,Telangana,South,Technology,Phones,Phones Model 570,14776.45,1,0,3217.18
+20240316-60860,16-03-2024,16-03-2024,Second Class,Meera Kulkarni,Corporate,India,Coimbatore,Tamil Nadu,South,Technology,Phones,Phones Model 517,33252.37,2,0,6806.17
+20250218-91048,18-02-2025,24-02-2025,Standard Class,Aditya Bose,Home Office,India,Kolkata,West Bengal,East,Office Supplies,Binders,Binders Model 837,394.24,1,0,47.83
+20240216-67367,16-02-2024,17-02-2024,Standard Class,Isha Khan,Corporate,India,Kolkata,West Bengal,East,Office Supplies,Storage,Storage Model 883,1402.2,1,0,289.35
+20240201-93105,01-02-2024,08-02-2024,Same Day,Arjun Iyer,Home Office,India,Madurai,Tamil Nadu,South,Furniture,Tables,Tables Model 402,53763.78,6,0,10036.51
+20250117-88204,17-01-2025,17-01-2025,Standard Class,Isha Das,Consumer,India,Kanpur,Uttar Pradesh,North,Furniture,Chairs,Chairs Model 686,4094.39,1,0,525.5
+20250714-94663,14-07-2025,15-07-2025,First Class,Priya Gupta,Consumer,India,New Delhi,Delhi,North,Technology,Appliances,Appliances Model 522,16208.04,3,0,3088.01
+20240613-84356,13-06-2024,15-06-2024,Second Class,Vivaan Mehta,Home Office,India,Warangal,Telangana,South,Furniture,Chairs,Chairs Model 918,4943.49,1,0,999.22
+20250716-86099,16-07-2025,23-07-2025,First Class,Nisha Reddy,Consumer,India,Vijayawada,Andhra Pradesh,South,Office Supplies,Binders,Binders Model 302,458.1,1,0,60.66
+20241231-73682,31-12-2024,02-01-2025,Standard Class,Meera Reddy,Consumer,India,Vijayawada,Andhra Pradesh,South,Furniture,Bookcases,Bookcases Model 425,5134.35,1,0.1,671.74
+20241109-42266,09-11-2024,11-11-2024,Second Class,Ishaan Chatterjee,Consumer,India,Thiruvananthapuram,Kerala,South,Office Supplies,Art,Art Model 420,547.03,1,0.3,-26.75
+20250322-68373,22-03-2025,26-03-2025,First Class,Diya Bose,Corporate,India,Kolkata,West Bengal,East,Technology,Appliances,Appliances Model 573,5695.06,1,0,1307.99
+20241108-35746,08-11-2024,15-11-2024,First Class,Rohit Chatterjee,Consumer,India,Lucknow,Uttar Pradesh,North,Furniture,Chairs,Chairs Model 651,10109.45,2,0,1711.79
+20240319-14804,19-03-2024,20-03-2024,Same Day,Riya Iyer,Home Office,India,Nagpur,Maharashtra,West,Technology,Phones,Phones Model 317,33947.87,2,0,7742.49
+20250710-48141,10-07-2025,17-07-2025,Second Class,Arjun Singh,Home Office,India,Vijayawada,Andhra Pradesh,South,Office Supplies,Art,Art Model 850,1307.05,2,0,308.82
+20250528-31737,28-05-2025,29-05-2025,Second Class,Priya Gupta,Home Office,India,Surat,Gujarat,West,Technology,Phones,Phones Model 800,17090.43,1,0,3816.94
+20250401-73373,01-04-2025,03-04-2025,Second Class,Diya Sharma,Home Office,India,Madurai,Tamil Nadu,South,Technology,Appliances,Appliances Model 849,4066.1,1,0.1,714.79
+20240812-37102,12-08-2024,19-08-2024,Second Class,Priya Malhotra,Consumer,India,Hyderabad,Telangana,South,Office Supplies,Storage,Storage Model 784,2949.02,2,0.1,557.07
+20250104-78337,04-01-2025,10-01-2025,First Class,Rohit Mehta,Consumer,India,Udaipur,Rajasthan,North,Furniture,Chairs,Chairs Model 820,4598.58,1,0,792.21
+20240926-59326,26-09-2024,28-09-2024,Standard Class,Ishaan Das,Home Office,India,Vadodara,Gujarat,West,Office Supplies,Storage,Storage Model 357,1252.46,1,0.1,65.18
+20250219-40145,19-02-2025,24-02-2025,Second Class,Aditya Das,Corporate,India,Howrah,West Bengal,East,Office Supplies,Binders,Binders Model 269,389.96,1,0,-1.68
+20241014-64344,14-10-2024,17-10-2024,Standard Class,Ananya Chatterjee,Home Office,India,Chennai,Tamil Nadu,South,Furniture,Bookcases,Bookcases Model 335,5509.35,1,0,861.07
+20240426-63857,26-04-2024,03-05-2024,Second Class,Aarav Patel,Home Office,India,Visakhapatnam,Andhra Pradesh,South,Office Supplies,Paper,Paper Model 953,452.92,2,0,36.91
+20240214-43850,14-02-2024,16-02-2024,Second Class,Sai Das,Consumer,India,Kochi,Kerala,South,Furniture,Chairs,Chairs Model 270,3339.37,1,0.3,33.23
+20250219-73133,19-02-2025,19-02-2025,Same Day,Sai Patel,Home Office,India,Ludhiana,Punjab,North,Furniture,Tables,Tables Model 582,8977.32,1,0,1568.45
+20250224-99861,24-02-2025,26-02-2025,First Class,Ananya Malhotra,Consumer,India,Gurugram,Haryana,North,Technology,Appliances,Appliances Model 841,5353.27,1,0,1160.72
+20250409-78512,09-04-2025,10-04-2025,Standard Class,Priya Kulkarni,Consumer,India,Warangal,Telangana,South,Office Supplies,Paper,Paper Model 307,206.01,1,0,-25.83
+20250305-25403,05-03-2025,07-03-2025,Standard Class,Aditya Singh,Home Office,India,Kochi,Kerala,South,Furniture,Furnishings,Furnishings Model 615,2333.64,1,0,407.23
+20240513-79444,13-05-2024,13-05-2024,First Class,Kavya Patel,Consumer,India,Faridabad,Haryana,North,Technology,Accessories,Accessories Model 814,1233.34,1,0,277.25
+20250508-40475,08-05-2025,14-05-2025,First Class,Aditya Iyer,Corporate,India,Kolkata,West Bengal,East,Office Supplies,Paper,Paper Model 884,360.38,2,0,70.84
+20250710-59155,10-07-2025,16-07-2025,Standard Class,Krishna Chatterjee,Home Office,India,New Delhi,Delhi,North,Furniture,Chairs,Chairs Model 107,3918.77,1,0.1,512.04
+20241119-80268,19-11-2024,25-11-2024,First Class,Kavya Nair,Corporate,India,Kolkata,West Bengal,East,Furniture,Furnishings,Furnishings Model 975,2818.71,1,0,334.85
+20250109-83281,09-01-2025,13-01-2025,Same Day,Riya Singh,Consumer,India,Visakhapatnam,Andhra Pradesh,South,Furniture,Furnishings,Furnishings Model 479,2492.28,1,0,349.45
+20240916-40116,16-09-2024,20-09-2024,Second Class,Meera Bose,Home Office,India,Thiruvananthapuram,Kerala,South,Technology,Accessories,Accessories Model 221,1791.88,2,0.3,66.14
+20240614-10693,14-06-2024,15-06-2024,Second Class,Aditya Mehta,Corporate,India,Warangal,Telangana,South,Office Supplies,Binders,Binders Model 751,333.48,1,0.1,5.06
+20240528-20490,28-05-2024,04-06-2024,First Class,Tanvi Sharma,Consumer,India,Thiruvananthapuram,Kerala,South,Furniture,Chairs,Chairs Model 479,18451.81,4,0,2943.72
+20250128-74797,28-01-2025,03-02-2025,Standard Class,Meera Sharma,Consumer,India,Thiruvananthapuram,Kerala,South,Technology,Appliances,Appliances Model 755,4108.9,1,0.1,705.2
+20240725-98345,25-07-2024,29-07-2024,Second Class,Vivaan Reddy,Home Office,India,Hyderabad,Telangana,South,Technology,Appliances,Appliances Model 273,5321.69,1,0,978.34
+20240901-63143,01-09-2024,01-09-2024,First Class,Saanvi Patel,Home Office,India,Chennai,Tamil Nadu,South,Office Supplies,Art,Art Model 504,1363.36,2,0,313.01
+20250614-46242,14-06-2025,14-06-2025,First Class,Ishaan Nair,Corporate,India,Chandigarh,Punjab,North,Furniture,Bookcases,Bookcases Model 935,10786.85,2,0.1,1849.38
+20240718-23954,18-07-2024,25-07-2024,Second Class,Riya Verma,Corporate,India,Vadodara,Gujarat,West,Furniture,Bookcases,Bookcases Model 618,5487.14,1,0,785.85
+20250530-59424,30-05-2025,03-06-2025,First Class,Saanvi Singh,Home Office,India,Kolkata,West Bengal,East,Technology,Accessories,Accessories Model 553,1193.73,1,0,173.67
+20240906-43792,06-09-2024,11-09-2024,Standard Class,Aditya Khan,Corporate,India,Faridabad,Haryana,North,Technology,Accessories,Accessories Model 219,1201.29,1,0,159.35
+20240813-44517,13-08-2024,16-08-2024,Standard Class,Ishaan Iyer,Home Office,India,Faridabad,Haryana,North,Office Supplies,Storage,Storage Model 952,5560.69,4,0.1,1185.07
+20240405-38647,05-04-2024,11-04-2024,Same Day,Saanvi Iyer,Corporate,India,Visakhapatnam,Andhra Pradesh,South,Furniture,Tables,Tables Model 462,9152.03,1,0,1674.64
+20240706-36577,06-07-2024,09-07-2024,First Class,Ishaan Mehta,Consumer,India,Jaipur,Rajasthan,North,Furniture,Tables,Tables Model 334,7731.17,1,0,1440.62
+20241230-80972,30-12-2024,01-01-2025,Same Day,Vivaan Mehta,Home Office,India,Gurugram,Haryana,North,Furniture,Chairs,Chairs Model 106,4468.21,1,0,697.41
+20250508-76995,08-05-2025,13-05-2025,Same Day,Rohit Khan,Consumer,India,Thiruvananthapuram,Kerala,South,Office Supplies,Storage,Storage Model 882,2174.16,2,0.2,288.23
+20240815-61605,15-08-2024,17-08-2024,Standard Class,Sai Singh,Home Office,India,Nagpur,Maharashtra,West,Office Supplies,Art,Art Model 455,683.01,1,0,87.76
+20240503-52655,03-05-2024,10-05-2024,Same Day,Diya Nair,Home Office,India,Kolkata,West Bengal,East,Furniture,Tables,Tables Model 203,16295.24,2,0,3248.22
+20240922-57962,22-09-2024,24-09-2024,Same Day,Sai Singh,Home Office,India,Noida,Uttar Pradesh,North,Furniture,Bookcases,Bookcases Model 451,26110.24,6,0.3,2652.11
+20250310-33578,10-03-2025,13-03-2025,Same Day,Saanvi Gupta,Corporate,India,Vadodara,Gujarat,West,Office Supplies,Storage,Storage Model 561,1402.8,1,0,335.25
+20250812-29116,12-08-2025,15-08-2025,Same Day,Arjun Singh,Corporate,India,Mangaluru,Karnataka,South,Office Supplies,Paper,Paper Model 300,423.6,2,0,48.02
+20240110-83680,10-01-2024,12-01-2024,Same Day,Saanvi Sharma,Corporate,India,Surat,Gujarat,West,Furniture,Bookcases,Bookcases Model 356,17507.27,3,0,3360.18
+20250211-92557,11-02-2025,12-02-2025,First Class,Vihaan Singh,Corporate,India,Chandigarh,Punjab,North,Furniture,Tables,Tables Model 959,7215.68,1,0,996.79
+20241208-63970,08-12-2024,12-12-2024,First Class,Vihaan Reddy,Corporate,India,Howrah,West Bengal,East,Technology,Appliances,Appliances Model 120,4802.37,1,0,893.21
+20240722-20277,22-07-2024,24-07-2024,Same Day,Isha Nair,Home Office,India,Faridabad,Haryana,North,Office Supplies,Storage,Storage Model 557,3044.75,2,0,653
+20241020-84925,20-10-2024,27-10-2024,Same Day,Isha Mehta,Home Office,India,Vijayawada,Andhra Pradesh,South,Furniture,Bookcases,Bookcases Model 727,5713.78,1,0,1074.47
+20240314-45058,14-03-2024,15-03-2024,First Class,Tanvi Kulkarni,Home Office,India,Coimbatore,Tamil Nadu,South,Furniture,Bookcases,Bookcases Model 398,12102.23,3,0.3,1344.85
+20250208-34102,08-02-2025,12-02-2025,Same Day,Aarav Gupta,Corporate,India,Udaipur,Rajasthan,North,Technology,Appliances,Appliances Model 271,11452.86,2,0,2387.3
+20240828-18361,28-08-2024,01-09-2024,Same Day,Nisha Das,Consumer,India,Chandigarh,Punjab,North,Furniture,Tables,Tables Model 197,5911.28,1,0.3,542.09
+20240225-30352,25-02-2024,25-02-2024,Standard Class,Aditya Kulkarni,Corporate,India,Faridabad,Haryana,North,Technology,Phones,Phones Model 732,68402.03,4,0,16080.23
+20250203-27206,03-02-2025,07-02-2025,Same Day,Priya Mehta,Home Office,India,Hyderabad,Telangana,South,Technology,Accessories,Accessories Model 229,1295.5,1,0,273.55
+20240623-80855,23-06-2024,23-06-2024,Same Day,Rohit Das,Corporate,India,Nagpur,Maharashtra,West,Office Supplies,Storage,Storage Model 991,1639.36,1,0,307.99
+20250331-93342,31-03-2025,02-04-2025,Same Day,Saanvi Khan,Home Office,India,Chandigarh,Punjab,North,Technology,Appliances,Appliances Model 866,14357.54,3,0,2877.83
+20250620-57943,20-06-2025,24-06-2025,Standard Class,Kavya Iyer,Corporate,India,Howrah,West Bengal,East,Technology,Phones,Phones Model 415,27715.49,2,0,5966.26
+20240608-80136,08-06-2024,12-06-2024,First Class,Aarav Chatterjee,Corporate,India,Mumbai,Maharashtra,West,Technology,Phones,Phones Model 580,14583.32,1,0,3633.19
+20250518-58974,18-05-2025,25-05-2025,Second Class,Krishna Khan,Consumer,India,New Delhi,Delhi,North,Office Supplies,Storage,Storage Model 661,2978.79,2,0,676.84
+20250728-20382,28-07-2025,03-08-2025,Same Day,Kavya Kulkarni,Consumer,India,Ahmedabad,Gujarat,West,Furniture,Furnishings,Furnishings Model 369,2225.88,1,0.1,288.56
+20240902-47957,02-09-2024,06-09-2024,Standard Class,Vihaan Kulkarni,Consumer,India,New Delhi,Delhi,North,Office Supplies,Paper,Paper Model 239,384.04,2,0,10.94
+20250411-80119,11-04-2025,18-04-2025,Standard Class,Aarav Gupta,Consumer,India,New Delhi,Delhi,North,Furniture,Bookcases,Bookcases Model 150,5458.39,1,0,1060.26
+20240414-29750,14-04-2024,18-04-2024,Standard Class,Aarav Singh,Consumer,India,New Delhi,Delhi,North,Technology,Accessories,Accessories Model 192,5017.95,4,0,995.16
+20240810-14159,10-08-2024,15-08-2024,Same Day,Ananya Verma,Home Office,India,Surat,Gujarat,West,Office Supplies,Storage,Storage Model 910,1185.92,1,0.2,124.26
+20240529-42778,29-05-2024,29-05-2024,Second Class,Isha Mehta,Consumer,India,New Delhi,Delhi,North,Furniture,Furnishings,Furnishings Model 961,5095.42,2,0,917.12
+20240113-36106,13-01-2024,14-01-2024,Second Class,Meera Chatterjee,Home Office,India,Gurugram,Haryana,North,Office Supplies,Art,Art Model 134,779.63,1,0,33.63
+20240406-15529,06-04-2024,09-04-2024,First Class,Riya Das,Consumer,India,Udaipur,Rajasthan,North,Technology,Accessories,Accessories Model 744,1082.54,1,0.1,65.37
+20240505-24801,05-05-2024,09-05-2024,Standard Class,Ishaan Kulkarni,Home Office,India,Udaipur,Rajasthan,North,Furniture,Bookcases,Bookcases Model 323,12763.95,2,0,2285.08
+20250320-15504,20-03-2025,25-03-2025,Same Day,Saanvi Bose,Consumer,India,Mumbai,Maharashtra,West,Office Supplies,Binders,Binders Model 109,363.76,1,0,17.54
+20250501-91087,01-05-2025,03-05-2025,Same Day,Ananya Malhotra,Consumer,India,Kolkata,West Bengal,East,Furniture,Tables,Tables Model 802,5116.49,1,0.3,369.44
+20240302-40497,02-03-2024,02-03-2024,Standard Class,Ananya Das,Consumer,India,Kolkata,West Bengal,East,Technology,Appliances,Appliances Model 599,4051.66,1,0.1,487.16
+20241221-42859,21-12-2024,28-12-2024,First Class,Vivaan Singh,Home Office,India,Chandigarh,Punjab,North,Furniture,Furnishings,Furnishings Model 237,5560.53,2,0,835.72
+20250324-52425,24-03-2025,28-03-2025,Second Class,Meera Iyer,Home Office,India,Kanpur,Uttar Pradesh,North,Office Supplies,Paper,Paper Model 456,378.16,2,0,-46.23
+20250721-58118,21-07-2025,23-07-2025,First Class,Meera Sharma,Corporate,India,Mangaluru,Karnataka,South,Furniture,Furnishings,Furnishings Model 654,4991.49,2,0,690.55
+20250602-18302,02-06-2025,08-06-2025,Second Class,Riya Mehta,Corporate,India,Chandigarh,Punjab,North,Furniture,Bookcases,Bookcases Model 838,10171.77,2,0.1,1659.59
+20250131-94004,31-01-2025,03-02-2025,First Class,Ananya Verma,Corporate,India,Kanpur,Uttar Pradesh,North,Office Supplies,Paper,Paper Model 519,210.08,1,0,40.41
+20240408-35115,08-04-2024,09-04-2024,Second Class,Vihaan Sharma,Consumer,India,Mumbai,Maharashtra,West,Furniture,Chairs,Chairs Model 597,4622.5,1,0,818.3
+20250807-38930,07-08-2025,13-08-2025,First Class,Tanvi Chatterjee,Consumer,India,Visakhapatnam,Andhra Pradesh,South,Technology,Appliances,Appliances Model 475,8123.43,2,0.2,993.17
+20240313-64519,13-03-2024,13-03-2024,Standard Class,Diya Bose,Corporate,India,Warangal,Telangana,South,Furniture,Furnishings,Furnishings Model 671,2754.42,1,0,321.85
+20240229-78089,29-02-2024,04-03-2024,First Class,Vihaan Verma,Consumer,India,Lucknow,Uttar Pradesh,North,Technology,Phones,Phones Model 321,43549.34,3,0.1,8824.54
+20240824-33448,24-08-2024,30-08-2024,Second Class,Riya Chatterjee,Home Office,India,Hyderabad,Telangana,South,Technology,Appliances,Appliances Model 740,4233.41,1,0.1,689.16
+20250725-97194,25-07-2025,31-07-2025,First Class,Kavya Malhotra,Home Office,India,Chandigarh,Punjab,North,Technology,Appliances,Appliances Model 569,8125.69,2,0.1,1244.14
+20240416-79979,16-04-2024,18-04-2024,First Class,Tanvi Singh,Home Office,India,Gurugram,Haryana,North,Technology,Accessories,Accessories Model 261,2650.28,2,0,436.05
+20241226-89745,26-12-2024,31-12-2024,Same Day,Ishaan Nair,Home Office,India,Noida,Uttar Pradesh,North,Office Supplies,Art,Art Model 431,1561.92,2,0,335.94
+20250712-62047,12-07-2025,15-07-2025,First Class,Aarav Chatterjee,Corporate,India,Vadodara,Gujarat,West,Technology,Accessories,Accessories Model 558,1339.59,1,0,147.12
